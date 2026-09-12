@@ -2,7 +2,7 @@
 title: Java中的运行机制
 url: https://www.yuque.com/ehsuh/oguki0/vrgzx7engs31go5k
 doc_id: 268089651
-exported_at: 2026-09-12T09:33:31
+exported_at: 2026-09-12T10:02:40
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用更短时间,教会更实用的技术! WWW.ITHEIMA.COM JAVA中的运行机制 虚拟机 DOWS 11 IDK-24 WINDOWS -X64 BIN.EXE 运行 编译 HELLOWORLD.JAVA HELLOWORLD.CLASS 虚拟机 JDK-25 MACOS-A ARCH64 BIN.DMG BILBIH 06:25/09:07 高级软件人才培训专家 -->

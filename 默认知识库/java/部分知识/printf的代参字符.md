@@ -2,7 +2,7 @@
 title: printf的代参字符
 url: https://www.yuque.com/ehsuh/oguki0/rmz8ogd9gcf7vx4x
 doc_id: 220213328
-exported_at: 2026-09-12T09:40:40
+exported_at: 2026-09-12T10:08:07
 ---
 
 转换符	类型	示例	说明

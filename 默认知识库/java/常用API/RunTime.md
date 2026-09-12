@@ -2,7 +2,7 @@
 title: RunTime
 url: https://www.yuque.com/ehsuh/oguki0/ocgi4uwl887awgpi
 doc_id: 218029994
-exported_at: 2026-09-12T09:40:02
+exported_at: 2026-09-12T10:07:36
 ---
 
 <!-- 这是一张图片，ocr 内容为：RUNTIME 方法名 说明 当前系统的运行环境对象 RUNTIME GETRUNTIME() PUBLIC STATIC 停止虚拟机 PUBLIC VOID EXIT(INT STATUS) 获得CPU的线程数 AVAILABLEPROCESSORS PUBLICINT JVM能从系统中获取总内存大小(单位BYTE) PUBLIC LONG MAXMEMORY() JVM已经从系统中获取总内存大小(单位BYTE) PUBLIC LONG TOTALMEMORY() JVM剩余内存大小(单位BYTE) FREEMEMORY() PUBLIC LONG 运行CMD命令 PUBLIC PROCESS COMMAND) EXEC(STRING -->

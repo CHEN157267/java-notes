@@ -2,7 +2,7 @@
 title: 使用String regex和Pattern p = Pattern.compile(regex);的区别
 url: https://www.yuque.com/ehsuh/oguki0/rxpck55hndn6g8ce
 doc_id: 219073752
-exported_at: 2026-09-12T09:40:11
+exported_at: 2026-09-12T10:07:43
 ---
 
 `<font style="color:rgb(0, 0, 0);">Matcher</font>`<font style="color:rgba(0, 0, 0, 0.85);">对象是通过</font>`<font style="color:rgb(0, 0, 0);">Pattern</font>`<font style="color:rgba(0, 0, 0, 0.85);">对象的</font>`<font style="color:rgb(0, 0, 0);">matcher()</font>`<font style="color:rgba(0, 0, 0, 0.85);">方法来创建的。</font>`<font style="color:rgb(0, 0, 0);">Pattern</font>`<font style="color:rgba(0, 0, 0, 0.85);">类表示正则表达式的编译表示，先使用</font>`<font style="color:rgb(0, 0, 0);">Pattern.compile(String regex)</font>`<font style="color:rgba(0, 0, 0, 0.85);">方法将正则表达式字符串编译成</font>`<font style="color:rgb(0, 0, 0);">Pattern</font>`<font style="color:rgba(0, 0, 0, 0.85);">对象，然后再通过这个</font>`<font style="color:rgb(0, 0, 0);">Pattern</font>`<font style="color:rgba(0, 0, 0, 0.85);">对象调用</font>`<font style="color:rgb(0, 0, 0);">matcher()</font>`<font style="color:rgba(0, 0, 0, 0.85);">方法，并传入要匹配的文本字符串，才能创建出</font>`<font style="color:rgb(0, 0, 0);">Matcher</font>`<font style="color:rgba(0, 0, 0, 0.85);">对象 。</font>

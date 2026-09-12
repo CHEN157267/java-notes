@@ -2,7 +2,7 @@
 title: Python的注释
 url: https://www.yuque.com/ehsuh/oguki0/gflrrdqkofi1au5r
 doc_id: 237595324
-exported_at: 2026-09-12T09:39:03
+exported_at: 2026-09-12T10:06:41
 ---
 
 <!-- 这是一张图片，ocr 内容为：注释的分类 单行注释:以#开头,#右边的所有文字当作说明,而不是真正要执行的程序,起辅助说明作用 #我是单行注释 1 PRINT("HELLO WORLD") 注意,#号和注释内容一般建议以一个空格隔开 多行注释:以一对三个双引号引起来( 注释内容MW)来解释说明一段代码的作用使用方法 AA AA AR 我是多行注释 23456 诗名:悯农 作者:李绅 AAAAAA PRINT("锄禾日当午") 7 PRINT("汗滴禾下土") PRINT("谁知盘中餐") 8 PRINT("粒粒皆辛苦") 9 -->

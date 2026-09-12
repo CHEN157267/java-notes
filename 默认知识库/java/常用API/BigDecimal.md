@@ -2,7 +2,7 @@
 title: BigDecimal
 url: https://www.yuque.com/ehsuh/oguki0/lrb0wcxdgr5feor5
 doc_id: 218967336
-exported_at: 2026-09-12T09:39:55
+exported_at: 2026-09-12T10:07:30
 ---
 
 大致与BigInteger这个包装类的方法相同

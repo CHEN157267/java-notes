@@ -2,7 +2,7 @@
 title: pyechars入门
 url: https://www.yuque.com/ehsuh/oguki0/oi4anpmsixvg71u9
 doc_id: 245419598
-exported_at: 2026-09-12T09:38:17
+exported_at: 2026-09-12T10:05:59
 ---
 
 ```python

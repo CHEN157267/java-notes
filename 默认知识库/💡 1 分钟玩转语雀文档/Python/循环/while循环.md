@@ -2,7 +2,7 @@
 title: while循环
 url: https://www.yuque.com/ehsuh/oguki0/hfc2fxecweu1ioq2
 doc_id: 238660073
-exported_at: 2026-09-12T09:38:41
+exported_at: 2026-09-12T10:06:22
 ---
 
 <!-- 这是一张图片，ocr 内容为：生活中的循环 程序中的循环 操作 条件 WHILE 循环 条件满足时,做的事情1 是 条件满足时,做的事情2 否 条件满足时,做的事情3 结束 .(省略)... 只要条件满足 每天都去向小美表白 直到成功为止 会无限循环执行 -->

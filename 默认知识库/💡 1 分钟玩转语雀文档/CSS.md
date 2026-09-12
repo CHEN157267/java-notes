@@ -2,7 +2,7 @@
 title: CSS
 url: https://www.yuque.com/ehsuh/oguki0/gqyuhapub10xynyr
 doc_id: 244441583
-exported_at: 2026-09-12T09:37:04
+exported_at: 2026-09-12T10:04:52
 ---
 
 层叠样式表 (Cascading Style sheets，缩写为 CS5)，是一种 样式表 语言，用来描述 HTML 文档的呈现(美化内容)。

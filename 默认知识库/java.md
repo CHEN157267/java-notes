@@ -2,7 +2,7 @@
 title: java
 url: https://www.yuque.com/ehsuh/oguki0/ffs0q0bi3gstsydr
 doc_id: 204956923
-exported_at: 2026-09-12T09:39:30
+exported_at: 2026-09-12T10:07:05
 ---
 
 <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">抽象类作为形参</font>**<font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">完全支持多态</font>**<font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">，通过子类继承和方法重写实现运行时动态绑定。其与接口多态的核心区别在于：</font>

@@ -2,7 +2,7 @@
 title: java的分类
 url: https://www.yuque.com/ehsuh/oguki0/gghn32hyhck18n1a
 doc_id: 212986581
-exported_at: 2026-09-12T09:40:36
+exported_at: 2026-09-12T10:08:03
 ---
 
 <!-- 这是一张图片，ocr 内容为：JAVA SE 一 JAVA SE JAVA语言的(标准版),用于桌面应用的开发, 是其他两个版本的基础. 桌面应用 用户只要打开程序,程序的界面会让用户在最短的时间 内找到他们需要的功能,同时主动带领用户完成他们的工作并 得到最好的体验. -->

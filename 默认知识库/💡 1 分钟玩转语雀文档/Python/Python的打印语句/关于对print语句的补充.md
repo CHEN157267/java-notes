@@ -2,7 +2,7 @@
 title: 关于对print语句的补充
 url: https://www.yuque.com/ehsuh/oguki0/rt4q4dti12sxg7ry
 doc_id: 238660292
-exported_at: 2026-09-12T09:39:06
+exported_at: 2026-09-12T10:06:44
 ---
 
 

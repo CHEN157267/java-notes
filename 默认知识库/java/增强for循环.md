@@ -2,7 +2,7 @@
 title: 增强for循环
 url: https://www.yuque.com/ehsuh/oguki0/dk3get7x144h8mtf
 doc_id: 219659000
-exported_at: 2026-09-12T09:40:05
+exported_at: 2026-09-12T10:07:38
 ---
 
 **<font style="color:rgb(0, 0, 0) !important;">增强 for 循环（Enhanced For Loop）的设计初衷是为了简化数组和集合的遍历</font>**<font style="color:rgba(0, 0, 0, 0.85);">，但它的适用范围不仅限于此。本质上，</font>**<font style="color:rgb(0, 0, 0) !important;">只要对象实现了 </font>**`**<font style="color:rgb(0, 0, 0);">Iterable</font>**`**<font style="color:rgb(0, 0, 0) !important;"> 接口</font>**<font style="color:rgba(0, 0, 0, 0.85);">（提供 </font>`<font style="color:rgba(0, 0, 0, 0.85);">iterator()</font>`<font style="color:rgba(0, 0, 0, 0.85);"> 方法），或者是</font>**<font style="color:rgb(0, 0, 0) !important;">数组</font>**<font style="color:rgba(0, 0, 0, 0.85);">，就可以使用增强 for 循环。</font>

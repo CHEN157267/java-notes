@@ -2,7 +2,7 @@
 title: SQL（适配python）
 url: https://www.yuque.com/ehsuh/oguki0/btag2mthe75oep1i
 doc_id: 210577578
-exported_at: 2026-09-12T09:39:14
+exported_at: 2026-09-12T10:06:51
 ---
 
 <!-- 这是一张图片，ocr 内容为：忘光光了 戏士 爱别离还在哟 中国电信2:241 间,教会最 多一句没有, 行,用敢短的 WWW.ITHEIMA.COM 无处不在的SQL 1719955300% 不管是何种开发语言,亦或是何种开发方向,SQL都是开发人员无法绕开的话题. 除了一门趁手的编程语言外,SQL语言也是开发人员人人必备的开发技能. JAVA CIC++ SCALA PYTHON 大数据开发 人工智能 远维测试 数据分析 后就开发 SQL SQL 局了 小国T O 将爱标打移动   做素 梅龙屏区域多动 1 俄需 020 调整画字租细 这些方向呢也通通都会使用到SQL BIBIBIN L 取消洗中当前标注 黑马程序员 4人民日日 显示/隐意捕获的员标指价 高级软件人才培训专家 -->

@@ -2,7 +2,7 @@
 title: ArrayList
 url: https://www.yuque.com/ehsuh/oguki0/sqv3wpk695zamklm
 doc_id: 269969476
-exported_at: 2026-09-12T09:31:43
+exported_at: 2026-09-12T10:02:15
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM ARRAYLIST 说明 构造方法 创建一个长度为0的集合 ARRAYLIST() 611611 LIBV1T&CZSEEZP13302:45/35:48 高级软件人才培训专家 -->

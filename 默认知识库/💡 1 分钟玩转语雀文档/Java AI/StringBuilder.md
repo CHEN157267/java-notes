@@ -2,7 +2,7 @@
 title: StringBuilder
 url: https://www.yuque.com/ehsuh/oguki0/ybh0wits18w6kf3x
 doc_id: 269969153
-exported_at: 2026-09-12T09:31:44
+exported_at: 2026-09-12T10:02:16
 ---
 
 StringBuilder的构造方法

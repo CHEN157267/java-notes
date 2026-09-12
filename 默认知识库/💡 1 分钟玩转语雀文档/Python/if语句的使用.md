@@ -2,7 +2,7 @@
 title: if语句的使用
 url: https://www.yuque.com/ehsuh/oguki0/pw8fpt13076dchq8
 doc_id: 238659494
-exported_at: 2026-09-12T09:38:52
+exported_at: 2026-09-12T10:06:31
 ---
 
 <!-- 这是一张图片，ocr 内容为：IF判断语句 生活中的判断 程序中的判断 IF 要判断的条件: 如果 动作 十 条件成立时,要做的事情 定义变量 如果小美喜欢我 明天我就去表白 三 30 AGE #进行判断 IF AGE > 18: 将聚标准计移动1你素 PRINT("我已经成年了") -->

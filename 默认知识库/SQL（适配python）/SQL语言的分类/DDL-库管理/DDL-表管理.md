@@ -2,7 +2,7 @@
 title: DDL-表管理
 url: https://www.yuque.com/ehsuh/oguki0/pq4yt4g4iy546ied
 doc_id: 247290552
-exported_at: 2026-09-12T09:39:18
+exported_at: 2026-09-12T10:06:54
 ---
 
 <!-- 这是一张图片，ocr 内容为：养什么软件,真接照明执行命会协会热烈以的嘛.我 ,用最短时,教会最多 WWW.ITHEIMA.COM DDL-表管理 查看有哪些表 创建表 CREATE TABLE表名称( 注意:需要先选择数据库哦 SHOW TABLES; 列名称列类型, 列名称列类型, 删除表 TITITI 表名称; DROP ); TABLE 列类型有 IF EXISTS 表名称; DROP TABLE INT 整数 FLOAT --浮点数 VARCHAR(长度) --文本,长度为数字,做最大长度限制 日期类型 DATE 时间戳类型 TIMESTAMP 第一个是查看库中有哪些表 高级软件人才培训专家 -->

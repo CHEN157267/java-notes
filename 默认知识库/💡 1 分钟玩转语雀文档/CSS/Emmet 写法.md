@@ -2,7 +2,7 @@
 title: Emmet 写法
 url: https://www.yuque.com/ehsuh/oguki0/ukix52usc1yum6nr
 doc_id: 247289468
-exported_at: 2026-09-12T09:37:18
+exported_at: 2026-09-12T10:05:06
 ---
 
 <!-- 这是一张图片，ocr 内容为：DUSURPAI-N ED -FEUR-F-TMLUCSS DAYO4.UPBED-POUSRPUNT 行吗? 黑马程序员 多一句没有,少一句不行,用更短时间,教会更实用的技术! WWW.ITHEIMA.COM EMMET写法 EMMET写法:代码的简写方式,输入缩写VS CODE会自动生成对应的代码. HTML 说明 标签结构 EMMET 类选择器 标签名,类名 <DIY CLESS`BOX*></D14> ID选择器 标签名11D名 同级标签 </PS</DLU>SPS</P> 父子级标签 多个相同标签 >SDAN>/SPEN/SSDEN>2>/SDEN>>>SDENS3>/SDENE 有内容的标签 <D1V>内容</D1V> DLV(内容 大多数简写方式为属性单词的首字母 CSS 那比如说举个例子 高级软结人才培制专家 -->

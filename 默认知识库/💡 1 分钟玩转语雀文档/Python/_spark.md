@@ -2,7 +2,7 @@
 title: *spark
 url: https://www.yuque.com/ehsuh/oguki0/no8u80tyacqu5093
 doc_id: 248105997
-exported_at: 2026-09-12T09:38:01
+exported_at: 2026-09-12T10:05:45
 ---
 
 <!-- 这是一张图片，ocr 内容为：老师,有没有做界原软件熟译群呢会支实用的找鸡哥打卡 说金源 了 WWW.ITHEIMA.COM SPARK是什么 定义:APACHESPARK是用于大规模数据(LARGE-SCALADATA) 处理的统一(UNIFIED)分析引擎. SPARK APACHE SPARK APACHE SPARK IS A LIGHTNING-FAST UNIFLED ANALYTICS ENGINE FOR BIG DATA AND MACHING DEVELOPED AT UC BERKELEY IN 2009. 简单来说,SPAR是一款分布式的计算框架,用于调度成百上千的服务器集群,计算TB,PB乃至E级别的海虽数据 SPARK 高级软件人才培训专家 -->

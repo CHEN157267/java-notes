@@ -2,7 +2,7 @@
 title: JDK8新增的时间相关类
 url: https://www.yuque.com/ehsuh/oguki0/vdapsg54legct99z
 doc_id: 220070303
-exported_at: 2026-09-12T09:39:52
+exported_at: 2026-09-12T10:07:28
 ---
 
 <!-- 这是一张图片，ocr 内容为：为什么要学JDK8新增时间相关类呢? 代码层面 安全层面 计算 JDK7:代码麻烦 日期对象 JDK7:多线程环境下会导致数据安全的问题 毫秒值 比较 判断的方法 解决了这个问题 JDK8:简单 JDK8:时间日期对象都是不可变的, 计算时间间隔的方法 -->

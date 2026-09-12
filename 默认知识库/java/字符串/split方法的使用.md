@@ -2,7 +2,7 @@
 title: split方法的使用
 url: https://www.yuque.com/ehsuh/oguki0/ls0ccz7p1m76fxtg
 doc_id: 221302280
-exported_at: 2026-09-12T09:40:54
+exported_at: 2026-09-12T10:08:19
 ---
 
 ```plain

@@ -2,7 +2,7 @@
 title: BigInteger
 url: https://www.yuque.com/ehsuh/oguki0/fo7sddw22rg5qn0n
 doc_id: 218583081
-exported_at: 2026-09-12T09:39:56
+exported_at: 2026-09-12T10:07:31
 ---
 
 _**<font style="color:#DF2A3F;">对象一旦创建，内部记录的值是无法改变的</font>**_

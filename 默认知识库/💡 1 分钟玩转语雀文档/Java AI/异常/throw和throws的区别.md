@@ -2,7 +2,7 @@
 title: throw和throws的区别
 url: https://www.yuque.com/ehsuh/oguki0/isf0tlum1zdzwdki
 doc_id: 284080269
-exported_at: 2026-09-12T09:31:32
+exported_at: 2026-09-12T10:02:08
 ---
 
 #### `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">throw</font>`<font style="color:rgb(15, 17, 21);">：主动抛出异常对象</font>

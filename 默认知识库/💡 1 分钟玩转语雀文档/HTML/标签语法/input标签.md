@@ -2,7 +2,7 @@
 title: input标签
 url: https://www.yuque.com/ehsuh/oguki0/nmpcsb3c7rttceak
 doc_id: 244338954
-exported_at: 2026-09-12T09:37:43
+exported_at: 2026-09-12T10:05:29
 ---
 
 <!-- 这是一张图片，ocr 内容为：INPUT 标签基本使用 INPUT 标签 TYPE 属性值不同,则功能不同. <INPUT TYPE">.."> 说明 TYPE属性值 文本框,用于输入单行文本 TEXT 密码框 PASSWORD 单选框 RADIO CHECKBOX 多选框 上传文件 FILE -->

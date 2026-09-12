@@ -2,7 +2,7 @@
 title: String
 url: https://www.yuque.com/ehsuh/oguki0/pztxg4ocha80ee8k
 doc_id: 261819576
-exported_at: 2026-09-12T09:34:06
+exported_at: 2026-09-12T10:02:58
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM STRING 定义 VAR变量名NEW STRING(S);11方式一 VAR STR NEW STRING("HELLO"); VAR变量名S;I/方式二 VAR STR"HELLO"; VAR STR 'HELLO'; 属性 字符串的长度 LENGTH 方法 返回在指定位置的字符 CHARAT() INDEXOF() 检索字符串. 高级软件人才培训专家 -->

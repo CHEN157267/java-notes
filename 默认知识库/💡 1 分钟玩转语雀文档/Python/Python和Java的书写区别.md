@@ -2,7 +2,7 @@
 title: Python和Java的书写区别
 url: https://www.yuque.com/ehsuh/oguki0/wxb2oorrctwqkdpc
 doc_id: 237592624
-exported_at: 2026-09-12T09:39:07
+exported_at: 2026-09-12T10:06:45
 ---
 
 <font style="color:rgb(0, 0, 0);">Python 和 Java 在代码书写上存在显著差异，这主要源于它们不同的设计哲学。Python 追求 </font>**<font style="color:rgb(0, 0, 0);">简洁明了</font>**<font style="color:rgb(0, 0, 0);"> 和 </font>**<font style="color:rgb(0, 0, 0);">开发效率</font>**<font style="color:rgb(0, 0, 0);">，而 Java 则更强调 </font>**<font style="color:rgb(0, 0, 0);">严谨清晰</font>**<font style="color:rgb(0, 0, 0);"> 和 </font>**<font style="color:rgb(0, 0, 0);">类型安全。</font>**

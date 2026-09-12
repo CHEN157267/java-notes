@@ -2,7 +2,7 @@
 title: html的快捷键
 url: https://www.yuque.com/ehsuh/oguki0/dv5eh6b3vo4svqli
 doc_id: 243017415
-exported_at: 2026-09-12T09:37:57
+exported_at: 2026-09-12T10:05:41
 ---
 
 英文！+  tab/enter(自动生成骨架代码）

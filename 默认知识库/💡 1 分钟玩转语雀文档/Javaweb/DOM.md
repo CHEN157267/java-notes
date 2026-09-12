@@ -2,7 +2,7 @@
 title: DOM
 url: https://www.yuque.com/ehsuh/oguki0/mceufchpbi0d2tmx
 doc_id: 261819871
-exported_at: 2026-09-12T09:34:01
+exported_at: 2026-09-12T10:02:55
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM DOM <HTML> <HEAD> <TITLE>文档标题</TITLE> DOCUMENT OBJECT MODEL 文档对象模型 </HEAD> <BODY> 将标记语言的各个组成部分封装为对象 <H1>我的标题</H1> <A HREF"#>我的链接</A> DOCUMENT:整个文档对象 </BODY> ELEMENT:元素对象 </HTML> ATTRIBUTE:属性对象 DOM树 TEXT:文本对象 COMMENT:注释对象 文档 根元素: <HTML> 元素: 元素: CHE AD> CBODY> 属性: 元素: 元素: 元素: <H1> <TITLE> HREF 文本: 文本: 文本: 文档标题 我的链接 我的标题 高级软件人才培训专家 HX P80 01:27720:13 -->

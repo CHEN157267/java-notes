@@ -2,7 +2,7 @@
 title: 增强for循环
 url: https://www.yuque.com/ehsuh/oguki0/dgusifwqvfmncx44
 doc_id: 219502150
-exported_at: 2026-09-12T09:40:37
+exported_at: 2026-09-12T10:08:05
 ---
 
 <font style="color:rgb(28, 31, 35);">for (元素类型 变量名 : 数组或集合) { // 使用变量访问当前元素 }</font>

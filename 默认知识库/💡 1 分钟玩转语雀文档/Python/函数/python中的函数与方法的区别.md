@@ -2,7 +2,7 @@
 title: python中的函数与方法的区别
 url: https://www.yuque.com/ehsuh/oguki0/eaxgz5lnsc1axuxp
 doc_id: 242036836
-exported_at: 2026-09-12T09:38:50
+exported_at: 2026-09-12T10:06:30
 ---
 
 <!-- 这是一张图片，ocr 内容为：列表的查询功能(方法) 回忆:函数是一个封装的代码单元,可以提供特定功能. 在PYTHON中,如果将函数定义为CLASS(类)的成员,那么函数会称之为:方法 CLASS STUDENT: ADD(X,Y): DEF DEF ADD(SELF,X, Y): RETURN X+Y 函数 RETURN X+Y 方法 方法和函数功能一样,有传入参数,有返回值,只是方法的使用格式不同: -->

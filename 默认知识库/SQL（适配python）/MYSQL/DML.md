@@ -2,7 +2,7 @@
 title: DML
 url: https://www.yuque.com/ehsuh/oguki0/kbrb94px8qlw6r4k
 doc_id: 213955088
-exported_at: 2026-09-12T09:39:25
+exported_at: 2026-09-12T10:07:00
 ---
 
 DML添加数据

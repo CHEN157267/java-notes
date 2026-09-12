@@ -2,7 +2,7 @@
 title: Java中对象的内存分配
 url: https://www.yuque.com/ehsuh/oguki0/re3rh0q7sd91mfka
 doc_id: 268089709
-exported_at: 2026-09-12T09:33:29
+exported_at: 2026-09-12T10:02:38
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用更短时间,教会更实用的技术! WWW.ITHEIMA.COM 内存地址 内存地址:内存中每一个小格子的编号 作用:快速的管理内存空间 64位系统:以64位的二进制表示 阅读弊端:二进制太长,转为十六进制 LILIBIH 高级软件人才培训专家 -->

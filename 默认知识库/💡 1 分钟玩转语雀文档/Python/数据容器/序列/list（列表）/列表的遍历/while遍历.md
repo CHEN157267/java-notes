@@ -2,7 +2,7 @@
 title: while遍历
 url: https://www.yuque.com/ehsuh/oguki0/lkkb9gq1skwz9hco
 doc_id: 242038396
-exported_at: 2026-09-12T09:38:33
+exported_at: 2026-09-12T10:06:15
 ---
 
 ```java

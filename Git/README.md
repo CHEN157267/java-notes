@@ -5,8 +5,8 @@
 
 ## Git
 
-- [Git\idea中的快捷键](<Git/Git/idea中的快捷键.md>)
-- [Git\关于gitignore的使用](<Git/Git/关于gitignore的使用.md>)
+- [idea中的快捷键](<Git/Git/idea中的快捷键.md>)
+- [关于gitignore的使用](<Git/Git/关于gitignore的使用.md>)
 
 ## Git.md
 

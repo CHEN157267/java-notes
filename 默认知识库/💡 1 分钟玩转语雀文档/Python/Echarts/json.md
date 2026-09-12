@@ -2,7 +2,7 @@
 title: json
 url: https://www.yuque.com/ehsuh/oguki0/iuxxsqiiunsyegdx
 doc_id: 245418693
-exported_at: 2026-09-12T09:38:16
+exported_at: 2026-09-12T10:05:58
 ---
 
 json就是不同编程语言中相互转化的中间通用语言，形式为字典或列表

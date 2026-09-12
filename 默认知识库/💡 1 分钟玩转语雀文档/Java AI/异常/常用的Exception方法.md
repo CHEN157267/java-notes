@@ -2,7 +2,7 @@
 title: 常用的Exception方法
 url: https://www.yuque.com/ehsuh/oguki0/kxvagmi804uvqygl
 doc_id: 284080030
-exported_at: 2026-09-12T09:31:35
+exported_at: 2026-09-12T10:02:10
 ---
 
 ## `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">getMessage()</font>`

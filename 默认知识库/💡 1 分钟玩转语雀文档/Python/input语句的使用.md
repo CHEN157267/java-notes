@@ -2,7 +2,7 @@
 title: input语句的使用
 url: https://www.yuque.com/ehsuh/oguki0/gl4b5te6za716abx
 doc_id: 238658672
-exported_at: 2026-09-12T09:38:24
+exported_at: 2026-09-12T10:06:06
 ---
 
 <!-- 这是一张图片，ocr 内容为：INPUT语句(函数) 我们前面学习过PRINT语句(函数),可以完成将内容(字面量,变量等)输出到屏幕上. 在PYTHON中,与之对应的还有一个INPUT语句,用来获取键盘输入. 数据输出:PRINT 数据输入:INPUT 使用上也非常简单: 使用INPUT()语句可以从键盘获取输入 使用一个变量接收(存储)INPUT语句获取的键盘输入数据即可 -->

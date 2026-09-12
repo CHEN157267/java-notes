@@ -2,7 +2,7 @@
 title: Lambda表达式
 url: https://www.yuque.com/ehsuh/oguki0/vsg04pipqwiraf9d
 doc_id: 283817490
-exported_at: 2026-09-12T09:31:37
+exported_at: 2026-09-12T10:02:11
 ---
 
 1. Lambda 是什么？

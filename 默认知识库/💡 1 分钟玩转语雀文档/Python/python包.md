@@ -2,7 +2,7 @@
 title: python包
 url: https://www.yuque.com/ehsuh/oguki0/tylf85bhe9iz5y95
 doc_id: 244337070
-exported_at: 2026-09-12T09:38:17
+exported_at: 2026-09-12T10:05:59
 ---
 
 <!-- 这是一张图片，ocr 内容为：从物理上看,包就是一个文件夹,在该文件夹下包含了一个-INIT-,DY文件,该文件夹可用于包含多个模块文件 从逻辑上看,包的本质依然是模块 MY_MODULE1 MODULE4 MY PACKAGE包 INIT PY MY_MODULE2 MY_MODULE5 MY_MODULE3 MY MODULE6 包的作用: 当我们的根块文件态来还是感想食品有道健康,但包的水质快照决,但包的木质饮然是梳缺 -->

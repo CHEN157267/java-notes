@@ -2,7 +2,7 @@
 title: CMD
 url: https://www.yuque.com/ehsuh/oguki0/fwqa55xcswquk5l1
 doc_id: 217153812
-exported_at: 2026-09-12T09:36:40
+exported_at: 2026-09-12T10:04:31
 ---
 
 <!-- 这是一张图片，ocr 内容为：常用CMD命令 盘符名称+冒号 CD目录1\目录2\... 说明:盘符切换 说明:进入多级目录. 举例:E:回车,表示切换到E盘 举例:CD ITHEIMAVAVASE CD\ DIR 说明:查看当前路径下的内容 说明:回退到盘符目录. CD目录 CLS 说明:进入单级目录 说明: 清屏. 举例: CD ITHEIMA CD EXIT 说明:退出命令提示符窗口. 说明:回退到上一级目录 -->

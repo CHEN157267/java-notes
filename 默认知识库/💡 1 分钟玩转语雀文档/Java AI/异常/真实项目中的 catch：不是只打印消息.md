@@ -2,7 +2,7 @@
 title: 真实项目中的 catch：不是只打印消息
 url: https://www.yuque.com/ehsuh/oguki0/gth999duph982svs
 doc_id: 284087343
-exported_at: 2026-09-12T09:31:31
+exported_at: 2026-09-12T10:02:07
 ---
 
 **<font style="color:rgb(15, 17, 21);">核心：catch 里要根据异常类型做不同的处理逻辑，不只是打印。</font>**

@@ -2,7 +2,7 @@
 title: HTML 基本骨架
 url: https://www.yuque.com/ehsuh/oguki0/zih4raviuxm7h62m
 doc_id: 244331451
-exported_at: 2026-09-12T09:37:40
+exported_at: 2026-09-12T10:05:27
 ---
 
 <!-- 这是一张图片，ocr 内容为：HTML基本骨架是网页模板. <HTML> <HEAD> <TITLE>网页标题</TIE> </HEAD> <BODY> 网页主体 </BODY> </HTML> HTML:整个网页 HEAD:网页头部,存放给浏览器看的代码,例如 CSS BODY:网页主体,存放给用户看的代码,例如图片,文字 网页标题 TITLE: -->

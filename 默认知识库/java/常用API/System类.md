@@ -2,7 +2,7 @@
 title: System类
 url: https://www.yuque.com/ehsuh/oguki0/xurzu7tgd52kn24a
 doc_id: 217963410
-exported_at: 2026-09-12T09:40:03
+exported_at: 2026-09-12T10:07:36
 ---
 
 <!-- 这是一张图片，ocr 内容为：SYSTEM SYSTEM也是一个工具类,提供了一些与系统相关的方法 方法名 说明 终止当前运行的 虚拟机 PUBLIC STATIC VOID EXIT(INT STATUS) JAVA 返回当前系统的时间毫秒值形式 PUBLIC STATIC LONG CURRENTTIMEMILLIS() PUBLIC STATIC VOID ARRAYCOPY(数据源数组,起始索 数组拷贝 引,目的地数组,起始索引,拷贝个数) -->

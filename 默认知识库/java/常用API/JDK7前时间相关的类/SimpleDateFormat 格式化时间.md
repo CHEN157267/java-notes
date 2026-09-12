@@ -2,7 +2,7 @@
 title: SimpleDateFormat 格式化时间
 url: https://www.yuque.com/ehsuh/oguki0/ayihf9g5vdtruhzu
 doc_id: 219970656
-exported_at: 2026-09-12T09:39:54
+exported_at: 2026-09-12T10:07:29
 ---
 
 <!-- 这是一张图片，ocr 内容为：SIMPLEDATEFORMAT类作用 格式化:把时间变成我们喜欢的格式. 解析:把字符串表示的时间变成DATE对象. -->

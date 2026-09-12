@@ -2,7 +2,7 @@
 title: DML插入、删除、更新的语法
 url: https://www.yuque.com/ehsuh/oguki0/uffgwx2rri6t94o9
 doc_id: 247290604
-exported_at: 2026-09-12T09:39:17
+exported_at: 2026-09-12T10:06:53
 ---
 
 <!-- 这是一张图片，ocr 内容为：.要汽用起来简单我可能信,但看起来简单... 中国 焦气牌星系贝 最实用的技术! WWW.ITHEIMA.COM 数据插入INSERT 基础语法: INSERT INTO 表[(列1,列2,................................................ ......,值N),.......................................................................................... 示例: CREATE TABLE STUDENT( ID INT, NAME VARCHART(20), AGE INT 仅插入ID列数据 INSERT INTO STUDENT(ID) VALUES(10001), (10002), (10003) 弄插入全部列数据 INSERT INTO STUDENT(ID,NAME,AGE) VALUES(10001,'周杰轮", 31),(10002,'王力湾', 格局了 (10003,林俊节,26) 插入全部列数据,快捷写法 INSERT INTO STUDENT VALUES(10001,'周杰轮', 31), (10002,'平力滴", 33),(10003,'林使节', 26) 高级软件人才培训专家 -->

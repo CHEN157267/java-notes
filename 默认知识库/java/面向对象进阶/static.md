@@ -2,7 +2,7 @@
 title: static
 url: https://www.yuque.com/ehsuh/oguki0/oedoinkupvrpmrao
 doc_id: 213946477
-exported_at: 2026-09-12T09:40:26
+exported_at: 2026-09-12T10:07:55
 ---
 
 <!-- 这是一张图片，ocr 内容为：静态变量是随着类的加载而加载的,优先于对象出现的 STATIC STRING TEACHERNA AME NULL 静态存储位置(静态区) -->

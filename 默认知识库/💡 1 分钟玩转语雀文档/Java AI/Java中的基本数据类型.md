@@ -2,7 +2,7 @@
 title: Java中的基本数据类型
 url: https://www.yuque.com/ehsuh/oguki0/ynoq5m8t7qcbabfw
 doc_id: 266781115
-exported_at: 2026-09-12T09:33:49
+exported_at: 2026-09-12T10:02:49
 ---
 
 <!-- 这是一张图片，ocr 内容为：JAVA中的基本数据类型 DATA TYPES IN JAVA FOR NICHOLAS INNOCENCE CARING NAIVE AWEI 布尔 字符 整数 小数 BOOLEAN CHAR BYTE FLOAT 2个字节 1个字节 SHORT INT TRUE/FALSE DOUBLE 1ONG BILIBI 黑马程序员 WWBYBTSCZSEEZP1704:29/10:50 -->

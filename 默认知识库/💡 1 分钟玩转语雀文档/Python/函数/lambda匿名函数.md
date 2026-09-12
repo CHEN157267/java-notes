@@ -2,7 +2,7 @@
 title: lambda匿名函数
 url: https://www.yuque.com/ehsuh/oguki0/ye15rt3485wtgzgf
 doc_id: 244330257
-exported_at: 2026-09-12T09:38:44
+exported_at: 2026-09-12T10:06:25
 ---
 
 定义格式

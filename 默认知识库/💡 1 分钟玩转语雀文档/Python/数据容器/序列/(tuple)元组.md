@@ -2,7 +2,7 @@
 title: (tuple)元组
 url: https://www.yuque.com/ehsuh/oguki0/vwkhgubbgatzyoa9
 doc_id: 242038843
-exported_at: 2026-09-12T09:38:36
+exported_at: 2026-09-12T10:06:17
 ---
 
 思考:列表是可以修改的。

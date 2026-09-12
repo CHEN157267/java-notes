@@ -2,7 +2,7 @@
 title: range语句的使用
 url: https://www.yuque.com/ehsuh/oguki0/hg97f7q52lbgr3k9
 doc_id: 238661232
-exported_at: 2026-09-12T09:38:43
+exported_at: 2026-09-12T10:06:23
 ---
 
 _**range只能接受整数参数**_

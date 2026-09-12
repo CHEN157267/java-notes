@@ -2,7 +2,7 @@
 title: instanceof的使用
 url: https://www.yuque.com/ehsuh/oguki0/eaag4sb050m6k2kc
 doc_id: 214988827
-exported_at: 2026-09-12T09:40:51
+exported_at: 2026-09-12T10:08:17
 ---
 
 变量名  instanceof   类名，相当于判断该变量是不是该类型，返回值为boolean

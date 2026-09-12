@@ -2,7 +2,7 @@
 title: Random类
 url: https://www.yuque.com/ehsuh/oguki0/eztasfz7b1kbr5xi
 doc_id: 268089427
-exported_at: 2026-09-12T09:33:46
+exported_at: 2026-09-12T10:02:47
 ---
 
 

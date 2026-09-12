@@ -2,7 +2,7 @@
 title: switch
 url: https://www.yuque.com/ehsuh/oguki0/dvwxy2nha1esyu6r
 doc_id: 268089329
-exported_at: 2026-09-12T09:33:47
+exported_at: 2026-09-12T10:02:48
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM 选择语句/SWITCH语句 SWITCH  DEMO.JAVA SWITCH DEMO.JAVA SWITCH(WEEK )I SWITCH(表达式) CASE 1: CASE值1: 跑步; 语句体1; BREAK; BREAK; CASE 2: CASE值2: 慢走; 语句体2; BREAK; BREAK; DEFAULT: DEFAULT: 没有这个星期; 语句体N; BREAK; BREAK; 6ILBIN 高级软件人才培训专家 -->

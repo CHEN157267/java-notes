@@ -2,7 +2,7 @@
 title: Objects
 url: https://www.yuque.com/ehsuh/oguki0/kgs7gacsger0valt
 doc_id: 218107676
-exported_at: 2026-09-12T09:39:57
+exported_at: 2026-09-12T10:07:32
 ---
 
 

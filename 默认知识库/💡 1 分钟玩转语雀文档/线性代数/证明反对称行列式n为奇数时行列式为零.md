@@ -2,7 +2,7 @@
 title: 证明反对称行列式n为奇数时行列式为零
 url: https://www.yuque.com/ehsuh/oguki0/dq7hc4vqsntteg7p
 doc_id: 245424252
-exported_at: 2026-09-12T09:37:02
+exported_at: 2026-09-12T10:04:51
 ---
 
 利用定义与转置：

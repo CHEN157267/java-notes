@@ -2,7 +2,7 @@
 title: font 复合属性
 url: https://www.yuque.com/ehsuh/oguki0/ese13yizsvbt6o2e
 doc_id: 245422022
-exported_at: 2026-09-12T09:37:29
+exported_at: 2026-09-12T10:05:16
 ---
 
 ```html

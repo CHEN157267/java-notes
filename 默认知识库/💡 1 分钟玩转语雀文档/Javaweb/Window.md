@@ -2,7 +2,7 @@
 title: Window
 url: https://www.yuque.com/ehsuh/oguki0/wk6q2xinwd1manf2
 doc_id: 261819731
-exported_at: 2026-09-12T09:34:02
+exported_at: 2026-09-12T10:02:56
 ---
 
 <!-- 这是一张图片，ocr 内容为：黑马程序员 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM WINDOW WINDOW:浏览器窗口对象 获取:直接使用WINDOW,其中WINDOW.可以省略 WINDOW.ALERT("ABC"); 属性:获取其他BOM对象 对HISTORY 对象的只读引用.请参数 HISTORY 对象. HISTORY 对象的VIGATOR 对象的只读引用.请参数 NAVIGATOR对象. NAVIGATOR 对 SCREEN 对象的只读引用.请参数 SCREEN 对象. SCREEN LOCATION 用于窗口或框架的 LOCATION 对象.请参阅LOCATION 对象. 方法 显示带有一段消息和一个确认按钮的警告框. ALERT() 显示带有一段消息以及确认按钮和取消按钮的对话框. CONFIRM() 按照指定的周期(以毫秒计)来调用函数或计算表达式. SETINTERVAL() 在指定的毫秒数后调用函数或计算表达式. SETTIMEOUT() 高级软件人才培训专家 -->

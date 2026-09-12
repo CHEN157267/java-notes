@@ -2,7 +2,7 @@
 title: Python中的打印语句的全部写法
 url: https://www.yuque.com/ehsuh/oguki0/ct2ft05o05f7stg5
 doc_id: 242157512
-exported_at: 2026-09-12T09:39:05
+exported_at: 2026-09-12T10:06:43
 ---
 
 | 方法类别 | 前缀/标志 | 基本语法示例 | 输出示例 | 简要说明 |

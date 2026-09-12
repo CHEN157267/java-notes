@@ -2,7 +2,7 @@
 title: DDL
 url: https://www.yuque.com/ehsuh/oguki0/gu8zy5fgrh3kt2gk
 doc_id: 213955089
-exported_at: 2026-09-12T09:39:24
+exported_at: 2026-09-12T10:06:59
 ---
 
 DDL的操作

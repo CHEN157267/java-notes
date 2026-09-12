@@ -2,7 +2,7 @@
 title: CSS 引入方式
 url: https://www.yuque.com/ehsuh/oguki0/ilgwvavg7z5kxk2o
 doc_id: 244441998
-exported_at: 2026-09-12T09:37:37
+exported_at: 2026-09-12T10:05:23
 ---
 
 <!-- 这是一张图片，ocr 内容为：内部样式表:学习使用 CSS代码写在STYLE标签里面 外部样式表:开发使用 CSS 代码写在单独的 CSS 文件中(.CSS) 在HTML使用LINK 标签引入 HREF"./MY.CSS"> <LINKREL"STYLESHEET' 行内样式:配合 JAVASCRIPT 使用 -->

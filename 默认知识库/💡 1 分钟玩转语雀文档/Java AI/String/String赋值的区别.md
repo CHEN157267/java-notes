@@ -2,7 +2,7 @@
 title: String赋值的区别
 url: https://www.yuque.com/ehsuh/oguki0/am9g9v4oktgdzntx
 doc_id: 269968543
-exported_at: 2026-09-12T09:31:48
+exported_at: 2026-09-12T10:02:18
 ---
 
 直接赋值的内存结构

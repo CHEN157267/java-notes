@@ -2,7 +2,7 @@
 title: MYSQL
 url: https://www.yuque.com/ehsuh/oguki0/vz5ik80vihltzmgu
 doc_id: 210577573
-exported_at: 2026-09-12T09:39:19
+exported_at: 2026-09-12T10:06:55
 ---
 
 <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(243, 243, 243);">直接在需要筛选条件中需要其他表的时候用嵌套查询，在slecet后跟多个表的字段用join on</font>

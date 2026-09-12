@@ -2,7 +2,7 @@
 title: UI设计
 url: https://www.yuque.com/ehsuh/oguki0/ff6akngk89xscpuw
 doc_id: 217149689
-exported_at: 2026-09-12T09:40:15
+exported_at: 2026-09-12T10:07:46
 ---
 
 通过·创建JFrame对象·来设定窗口，setVisible是显示设定的窗口

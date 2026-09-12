@@ -2,7 +2,7 @@
 title: Lambda的简化写法
 url: https://www.yuque.com/ehsuh/oguki0/sqwpq6fc6bxfwq9t
 doc_id: 222095242
-exported_at: 2026-09-12T09:39:35
+exported_at: 2026-09-12T10:07:09
 ---
 
 

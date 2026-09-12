@@ -2,7 +2,7 @@
 title: (dict)字典
 url: https://www.yuque.com/ehsuh/oguki0/yk2dbkgmrn7e0gzp
 doc_id: 242082896
-exported_at: 2026-09-12T09:38:28
+exported_at: 2026-09-12T10:06:10
 ---
 
 <!-- 这是一张图片，ocr 内容为：不过存储的元素是一个个的:键值对,如下语法 字典的定义,同样使用 #定义字典字面量 FKEY:VALUEGKEY:VALUE, :VALUE KEY: 3#定义字典变量 CT : KEY:VALUE, KEY:VALUE,............. KEY:VALUE; 4 MYDICT #定义空字典 5 6 #空字典定义方式1 MY-DICT DICT() 7 #空字典定义方式2 MYDICT -->

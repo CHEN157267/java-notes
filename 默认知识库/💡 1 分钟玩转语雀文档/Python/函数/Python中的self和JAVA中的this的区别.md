@@ -2,7 +2,7 @@
 title: Python中的self和JAVA中的this的区别
 url: https://www.yuque.com/ehsuh/oguki0/ea6zs0g552mtoc4t
 doc_id: 243616952
-exported_at: 2026-09-12T09:38:49
+exported_at: 2026-09-12T10:06:29
 ---
 
 | 特性 | Java ( this ) | Python ( self ) |

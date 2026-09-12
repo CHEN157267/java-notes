@@ -2,7 +2,7 @@
 title: _str_ 字符串方法
 url: https://www.yuque.com/ehsuh/oguki0/kumzbdpatnasdo3q
 doc_id: 246188357
-exported_at: 2026-09-12T09:38:05
+exported_at: 2026-09-12T10:05:49
 ---
 
 <!-- 这是一张图片，ocr 内容为：重写TOSTRING方法 重写TOSTRJAVA的TOSTRING C++重载COUT NG 黑马程序员 文会最实用的技术! 用取短时间,放会 WWW.ITHEIMA.COM _STR_字符串方法 CLASS SEUDENT: DEF_INIT_(SELF,NAME,AGE): SELF.NAME NAME SELF.AGE AGE STUDENT STUDENT(因杰轮".11) STUDENT) PRINT(STUDENT) PRINT(STR(STUDENT)) # 结果:<MAIN-.STUDENT OBJECT AT OX000002200CFD7040> 当类对象需要被转换为字符串之时,会输 公司THTTPSXXXHA 1171X484 PX 内存地址没有多大作用,我们可以通过_STR_方法,控制类转换为字符串的行为. CLASS STUDENT: DEF_INIT_(SELF,NAME,AGE): SELF.NAME NAME SELF.AGE AGE 方法名:_STR 返回值:字符串 KSE1F): DEF STR RN F'STUDENT类对象,NAME-{SELF.NAME],AGE-{SELF.AGE]" 内容:自行定义 RETURN  F'ST 你看它的结果是什么 STUDENT-STUDENT("周杰轮",11) 结果:STUDENT类对象,NAMU PRINT(STUDENT) 黑马程序员 结果:STUDENT类对象,NAME-周杰轮,AGE11 PRINT(STR(STUDENT)) 高级软件人才培训专家 -->

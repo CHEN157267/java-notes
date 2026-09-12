@@ -2,7 +2,7 @@
 title: （2）StringBuilder
 url: https://www.yuque.com/ehsuh/oguki0/ovouskb36giusqim
 doc_id: 212992125
-exported_at: 2026-09-12T09:40:55
+exported_at: 2026-09-12T10:08:20
 ---
 
 不需要导包

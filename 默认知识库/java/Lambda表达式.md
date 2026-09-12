@@ -2,7 +2,7 @@
 title: Lambda表达式
 url: https://www.yuque.com/ehsuh/oguki0/ifyv1m5pey4o4hx7
 doc_id: 222087678
-exported_at: 2026-09-12T09:39:34
+exported_at: 2026-09-12T10:07:08
 ---
 
 最基本的特点就是简化匿名内部类的书写

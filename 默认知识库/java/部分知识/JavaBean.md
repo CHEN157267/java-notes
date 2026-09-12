@@ -2,7 +2,7 @@
 title: JavaBean
 url: https://www.yuque.com/ehsuh/oguki0/tdggbqz8rezagg7g
 doc_id: 212986772
-exported_at: 2026-09-12T09:40:39
+exported_at: 2026-09-12T10:08:06
 ---
 
 JavaBean

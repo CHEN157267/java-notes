@@ -2,7 +2,7 @@
 title: final
 url: https://www.yuque.com/ehsuh/oguki0/cymvwoiy8hn83zph
 doc_id: 215108897
-exported_at: 2026-09-12T09:40:30
+exported_at: 2026-09-12T10:07:59
 ---
 
 <!-- 这是一张图片，ocr 内容为：方法 表明该方法是最终方法,不能被重写 类 表明该类是最终类,不能被继承 变量 叫做常量,只能被赋值一次 -->

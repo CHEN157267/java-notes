@@ -2,7 +2,7 @@
 title: for循环
 url: https://www.yuque.com/ehsuh/oguki0/nvu8y3yyuewi8b5u
 doc_id: 238660068
-exported_at: 2026-09-12T09:38:42
+exported_at: 2026-09-12T10:06:23
 ---
 
 <!-- 这是一张图片，ocr 内容为：FOR循环 除了WHILE循环语句外,PYTHON同样提供了FOR循环语句. 两者能完成的功能基本差不多,但仍有一些区别: WHILE循环的循环条件是自定义的,自行控制循环条件 机制,是对一批内容进行 逐个处理" FOR循环是一种"|轮询" -->
