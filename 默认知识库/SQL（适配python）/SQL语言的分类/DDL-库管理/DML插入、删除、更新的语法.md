@@ -1,0 +1,30 @@
+---
+title: DML插入、删除、更新的语法
+url: https://www.yuque.com/ehsuh/oguki0/uffgwx2rri6t94o9
+doc_id: 247290604
+exported_at: 2026-09-12T09:39:17
+---
+
+<!-- 这是一张图片，ocr 内容为：.要汽用起来简单我可能信,但看起来简单... 中国 焦气牌星系贝 最实用的技术! WWW.ITHEIMA.COM 数据插入INSERT 基础语法: INSERT INTO 表[(列1,列2,................................................ ......,值N),.......................................................................................... 示例: CREATE TABLE STUDENT( ID INT, NAME VARCHART(20), AGE INT 仅插入ID列数据 INSERT INTO STUDENT(ID) VALUES(10001), (10002), (10003) 弄插入全部列数据 INSERT INTO STUDENT(ID,NAME,AGE) VALUES(10001,'周杰轮", 31),(10002,'王力湾', 格局了 (10003,林俊节,26) 插入全部列数据,快捷写法 INSERT INTO STUDENT VALUES(10001,'周杰轮', 31), (10002,'平力滴", 33),(10003,'林使节', 26) 高级软件人才培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765263111-e0847e73-5286-42e6-9d72-fabdc0d9f479.jpeg)<!-- 这是一张图片，ocr 内容为：没字幕中国电信2 数据低刻眼睛感一下存镇点击你购新码新疆好的代码集楼景星温号没极换用 没有,少一可不行,用取短的 WWW.ITHEIMA.COM 数据删除DELETE 条件判断:列操作符值 操作符:<><>>等等,如 基础语法: ID5 DELETE FROM 表名称 [WHERE 条件判断] ID<3 ID>6 ID!5 演示: DROP TABLE IF EXISTS STUDENT; CREATE TABLE STUDENT( ID INT NAME VARCHAR(20), AGE INT ): INSERT INTO STUDENT VALUES(10001,"周杰轮',(10002,'王力讷','王力讷',33),(10003,"林俊节', 35),(10004,*张学油',36),(10005,'刘德滑',30); 剧除NAME为林俊节的数据 DELETE FROM STUDENT WHERE NAME "林俊节'; 注意,不要忘记 删除AGE>33的数据 DELETE FROM STUDENT WHERE AGE> 33: 删除全部数据 DELETE FROM STUDENT; 高级软件人牙培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765269984-f1edf0ab-8179-42d6-a009-4fafc72e6d93.jpeg)<!-- 这是一张图片，ocr 内容为：出号亚托克斯 65 多一句没有,少一句不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM 数据更新UPDATE 条件判断:列操作符值 操作符:<> 基础语法 ID 5 UPDATE 表名 SET 列值 [WHERE 条件判断]; ID<3 ID>6 ID!5 演示: DROP TABLE IF EXISTS STUDENT: CREATE TABLE STUDENT( ID INT, NAME VARCHAR(20), AGE INT ): INSERT INTO STUDENT VALUES(10001,"同杰轮",(10002,'王力鸿",'王力鸿", 33),(10003,'林俊节", 35),(10004,*张学油',36),(10005,'刘德滑", #修改ID为10001的NAME为陈一讯 UPDATE STUDENT SET NAME `陈-IL' WHERE ID 10001; 修改全部数据的AGE为11 UPDATE STUDENT SET AGE 11: 高级软件人才培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765274932-12bc3076-72c4-4114-bb20-132c3421f1b3.jpeg)
+
+
+
+<!-- 这是一张图片，ocr 内容为：很 深别号祭像执行 中 教会最实用的技术! 多一句没有,少一 WWW.ITHEIMA.COM 1.DML插入,删除,更新的语法 INSERT INTO 表[列1,列2.................................................................................. ,.................................................................................................... 条件判断:列操作等值 DELETE FROM 表名称 [WHERE 条件判断] 总结 UPDATE 表名 SET列 [WHERE 条件判断]; 操作符: ID-5 1D<3 ID>6 ID ! 5 2.注意事项 字符串的值,出现在SQL语句中,必须要用单引号包围起来 高级软件人牙培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765285398-305d3ae0-61e4-49d6-be43-324097349dd1.jpeg)
+
+
+
+<!-- 这是一张图片，ocr 内容为：如何进行多个 陈立农, 黑马程序员 一句没有,少一句不行,用最短时间,教会最实用的技术 WWW.ITHEIMA.COM 1.基础查询的语法 总结 SELECT 字段列表|FROM表 2.过滤查询的语法 SELECT 字段列表| FROM 表 WHERE 条件判断 画上句号 高级软件人牙培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765350771-fd8feeb0-8755-4b7a-a0d1-6043f27a44f5.jpeg)<!-- 这是一张图片，ocr 内容为：多一白波打卡滴 比一游 古德拜 黑马程序员 不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM 分组聚合 分组聚合应用场景非常多,如:统计班级中,男生和女生的人数. 这种需求就需要: 按性别分组 统计每个组的人数 这就称之为:分组聚合. 日 1224X420 PA 基础语法: SELECT 字段|聚合函数 FROM表[WHERE 条件] GROUP BY 列 聚合函数有: SUM(列) 求和 AVG(列)求平均值 MIN(列)求最小值 求最大值 MAX(列) 如果你想要走分组聚合的话 黑马程序员出租 COUNT(列|*) 求数量 高级软件人才培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765355852-c40250eb-6d3e-4c8e-abc3-1f1a401f1526.jpeg)<!-- 这是一张图片，ocr 内容为：DBEAVER 22.0-XLOCALHOST,SCNP 娃姑手 SQL药低南  热磁本(D) 中国电信 1:43. 4G K/S 口控车 入费格名称的一部分 公司四楼 A INCALHNST-FRCALHEESTEANS SELECT GENDER, AVG(AGE) FROM STUDENT GROUP BY GEN SAKILA GENDER GSYS WORLD 512K B CITY 112K GOK COUNTRYLANGUAGE 16K 回视网 O 门 办学 OF SELECT GENDER . AVQFAGE)FROM STUDENT GROUP BY I 基础语法: 用户 23.1636 SELECT字段聚合成数FROM表[WHERE条件]GROUPBY列 27.778 SUM(列)求和 AVG(列)求平均值 MIN(列)求最小值 -MAX(列        MAX(列 求最大作 -COUNT(列) 求数量 ITROJOCT-BENERAL 名称 数据码 SERIPTS WASD 12.0 你才能在SELECT字段中出现谁好 60保存 黑马程序员 (取消选中当前标注 1人生,显示/隐蔽伟获的鼠标接针 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765360090-5ee69bec-b767-4962-95fb-d503a61d0d71.jpeg)<!-- 这是一张图片，ocr 内容为：不购的 咕咕BUY 咕咕拜中国电信1:47马程序 4G 83 B7S 多一句没有,少一句不行,用最短时间,教会最实用 WWW.ITHEIMA.COM 1.分组聚合的语法是? E条件] SELECT 字段|聚合函数 FROM 表 [WHERE 条 GROUP BY列 聚合函数有: SUM(列)求和 AVG(列)  求平均值 总结 MIN(列)求最小值 MAX(列)求最大值 求数量 COUNT(列 ) 2.分组聚合的注意事项? GROUPBY中出现了哪个列,哪个列才能出现在SELECT中的非聚合中. SELECT ID,NAME,AVG(AGE)FROM STUDENT GROUP BY NAME) SD 梅粒层区减移动 1德需 12/6 谁才能在SELECT的非聚合中出现哦 P 取消洗中当前标注 1人 显示/隐藏捷获的品标准 BJ点 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765366196-ce49a953-e4a3-4ee4-b4a4-d495e732576c.jpeg)<!-- 这是一张图片，ocr 内容为：2002年8月15日 TOP5 南电信 新疆中(D) 4G 中国 AUTO TUCALHUST PLOM *CLOSALHOSTE SCAIPL X ST-FNCALHOSHA306 SAKLLA SELECT列聚合函数|FROM表 SAS LIMIT STUDENT FROM WORLD WHERE,. 512K GROUP BY . 112K D COUNTRY 160K COUNTRYLANGUAGE  ORDER BY ... [ASC | DESC] 16N 物视习 LIMIT NC, M] OF SELECT*FROM STUDENT 5 "S.SS.S/一个.52L 度达-C严UDD 可文本   国阿格 用户 男 10,002|主力河 33尘 35女 10.003 36女 10.004科志灵 88M P-ROJOCT-GCNORAL 名称 数据码 BOOKMARKS DIAGRAMS SERIPTS 我只输出5条 中 5行PA - 0MS,2022-08 21:05:16 炎正在看 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765371958-c55812ab-fb39-4a12-bbff-237627fb4e92.jpeg)<!-- 这是一张图片，ocr 内容为：文件门 SR55  -O.IN) 提累() 中 AUTO 口脂 `CLOGALHOSI2 SCAIPI > 输入表格名称能一部分 TS INEALHAST -INCALHOET3305 SAKDLA SELECT列|聚合函数|FROM FROM表 SYS SELECT*FROM STUDENT LIMIT 10,  5 5; WORLD WHERE 512K M CITY GROUP BY . 112K DEPUNTRY 160K COUNTRYLANGUAGE ORDER BY ... [ASC | DESC] 16K 物视习 LIMIT N[,M] 正面板图业单压 可文本  曲网格 男 10,001 10,002 |力河 234 35女 10,003         0003 开放用 36女 10.004环击荧 5 334 10.005刻 STROJOCT-SCNORAL 名称 戴据码 BOOKMARKS DIAGNAMS SERIPATS 然后向后取5条 HPA软-0MS,2022-08 21:05:16 SET 2 终正在看 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1764765377221-2a19e57c-0292-4c00-91a5-7d4af22f55d9.jpeg)
+
+<!-- 这是一张图片，ocr 内容为：25, 多四的夏看,一 2024, 鼎马程序员 81 向不行,用最短时间,教会最实用的技术! WWW.ITHEIMA.COM 1.排序和分页限制的语法是? SELECT列|聚合函数|*FROM表 WHERE GROUP BY  . [ASC I DESC] ORDER BY LASC LIMIT N[,M] 总结 2.截止到目前学习到的关键字,需注意: WHERE,GROUP BY,ORDER BY,LIMIT均可按需求省略 SELECT和FROM是必写的 执行顺序: FROM->WHERE->GROUPBY和聚合函数->SELECT ->ORDER BY -> LIMIT 的一些相关的基础信息 高级软件人才培训专家 -->
+![](https://cdn.nlark.com/yuque/0/2025/jpeg/52131016/1765279005968-4c0f361f-6ae5-4110-adad-b2c174f6d5ec.jpeg)
+
