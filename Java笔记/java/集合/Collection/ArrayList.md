@@ -9,7 +9,7 @@ exported_at: 2026-09-12T10:38:41
 arraylist<string> list = new arraylist<>();
 ```
 
-_**<font style="color:#DF2A3F;">//尖括号内也可以写类名</font>**_
+_**//尖括号内也可以写类名**_
 
 <!-- 这是一张图片，ocr 内容为：ARRAYLIST成员方法 方法名 说明 增 BOOLEAN ADD(E E) 添加元素,返回值表示是否添加成功 BOOLEAN REMOVE(E E) 删除指定元素,返回值表示是否删除成功 删 E REMOVE(INT INDEX) 删除指定索引的元素,返回被删除元素 改 修改指定索引下的元素,返回原来的元素 E SET(INT INDEX,E E) E GET(INT INDEX) 获取指定索引的元素 查 INT SIZE() 集合的长度,也就是集合中元素的个数 -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1743217935964-308a80bc-878a-4a80-992d-58340eae0af7.png)

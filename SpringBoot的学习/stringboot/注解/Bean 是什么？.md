@@ -5,11 +5,11 @@ doc_id: 284227106
 exported_at: 2026-09-12T09:41:08
 ---
 
-**<font style="color:rgb(15, 17, 21);">Bean 就是被 Spring 容器管理的对象。</font>**
+**Bean 就是被 Spring 容器管理的对象。**
 
-+ <font style="color:rgb(15, 17, 21);">Spring 启动时，扫描所有标注了</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@Component</font>`<font style="color:rgb(15, 17, 21);">（及</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@Service</font>`<font style="color:rgb(15, 17, 21);">、</font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@Repository</font>`<font style="color:rgb(15, 17, 21);">、</font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@Controller</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">等）的类</font>
-+ <font style="color:rgb(15, 17, 21);">自动创建这些类的对象，放进一个容器里</font>
-+ <font style="color:rgb(15, 17, 21);">以后想用某个对象，不用自己 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">new</font>`<font style="color:rgb(15, 17, 21);">，用 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@Autowired</font>`<font style="color:rgb(15, 17, 21);"> 从容器里取</font>
++ Spring 启动时，扫描所有标注了 `@Component`（及 `@Service`、`@Repository`、`@Controller` 等）的类
++ 自动创建这些类的对象，放进一个容器里
++ 以后想用某个对象，不用自己 `new`，用 `@Autowired` 从容器里取
 
 ```java
 @Component

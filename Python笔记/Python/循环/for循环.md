@@ -43,11 +43,11 @@ f
 
 for和while语句的区别
 
-| **<font style="color:rgb(0, 0, 0);">特性</font>** | **<font style="color:rgb(0, 0, 0);">while循环</font>** | **<font style="color:rgb(0, 0, 0);">for循环</font>** |
+| **特性** | **while循环** | **for循环** |
 | :--- | :--- | :--- |
-| **<font style="color:rgb(0, 0, 0);">变量更新</font>** | **<font style="color:rgb(0, 0, 0);">需</font>****<font style="color:rgb(0, 0, 0);">手动更新</font>****<font style="color:rgb(0, 0, 0);">（如</font>**`**<font style="color:rgb(0, 0, 0);">count += 1</font>**`**<font style="color:rgb(0, 0, 0);">）</font>** | **<font style="color:rgb(0, 0, 0);">自动更新</font>****<font style="color:rgb(0, 0, 0);">（由迭代器赋值）</font>** |
-| **<font style="color:rgb(0, 0, 0);">循环控制</font>** | <font style="color:rgb(0, 0, 0);">依赖条件表达式</font> | <font style="color:rgb(0, 0, 0);">依赖可迭代对象长度</font> |
-| **<font style="color:rgb(0, 0, 0);">风险</font>** | <font style="color:rgb(0, 0, 0);">易因未更新变量导致无限循环</font> | <font style="color:rgb(0, 0, 0);">手动修改变量无效，但无无限循环风险</font> |
-| **<font style="color:rgb(0, 0, 0);">适用场景</font>** | <font style="color:rgb(0, 0, 0);">条件驱动（如用户输入、状态检测）</font> | <font style="color:rgb(0, 0, 0);">遍历数据或固定次数循环</font> |
+| **变量更新** | **需****手动更新****（如**`**count += 1**`**）** | **自动更新****（由迭代器赋值）** |
+| **循环控制** | 依赖条件表达式 | 依赖可迭代对象长度 |
+| **风险** | 易因未更新变量导致无限循环 | 手动修改变量无效，但无无限循环风险 |
+| **适用场景** | 条件驱动（如用户输入、状态检测） | 遍历数据或固定次数循环 |
 
 

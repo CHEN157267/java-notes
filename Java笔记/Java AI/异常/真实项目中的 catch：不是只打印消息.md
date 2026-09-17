@@ -5,9 +5,9 @@ doc_id: 284087343
 exported_at: 2026-09-12T10:37:11
 ---
 
-**<font style="color:rgb(15, 17, 21);">核心：catch 里要根据异常类型做不同的处理逻辑，不只是打印。</font>**
+**核心：catch 里要根据异常类型做不同的处理逻辑，不只是打印。**
 
-<font style="color:rgb(15, 17, 21);">例如用户注册功能：</font>
+例如用户注册功能：
 
 ```java
 try {
@@ -23,14 +23,14 @@ try {
 }
 ```
 
-**<font style="color:rgb(15, 17, 21);">为什么不能全用</font>****<font style="color:rgb(15, 17, 21);"> </font>**`**<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">Exception</font>**`**<font style="color:rgb(15, 17, 21);"> </font>****<font style="color:rgb(15, 17, 21);">+ 自定义消息？</font>**
+**为什么不能全用**** **`**Exception**`** ****+ 自定义消息？**
 
-+ <font style="color:rgb(15, 17, 21);">如果全用</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">Exception</font>`<font style="color:rgb(15, 17, 21);">，catch 里只能拿到一个</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">Exception</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">对象，无法用代码自动区分错误类型。</font>
-+ <font style="color:rgb(15, 17, 21);">只能靠字符串匹配（如</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">if (e.getMessage().contains("用户名"))</font>`<font style="color:rgb(15, 17, 21);">），脆弱且不可靠。</font>
-+ <font style="color:rgb(15, 17, 21);">不同异常类型需要触发不同动作：有的返回前端提示，有的发告警，有的记日志。</font>
-+ <font style="color:rgb(15, 17, 21);">所以需要不同的异常子类，让 catch 能分类处理。</font>
++ 如果全用 `Exception`，catch 里只能拿到一个 `Exception` 对象，无法用代码自动区分错误类型。
++ 只能靠字符串匹配（如 `if (e.getMessage().contains("用户名"))`），脆弱且不可靠。
++ 不同异常类型需要触发不同动作：有的返回前端提示，有的发告警，有的记日志。
++ 所以需要不同的异常子类，让 catch 能分类处理。
 
-**<font style="color:rgb(15, 17, 21);">同一时刻只会抛出一个异常</font>**<font style="color:rgb(15, 17, 21);">，不会同时出现多个异常。所以多个 catch 是为了覆盖不同位置可能出现的不同异常类型，不是担心同时出现多个。</font>
+**同一时刻只会抛出一个异常**，不会同时出现多个异常。所以多个 catch 是为了覆盖不同位置可能出现的不同异常类型，不是担心同时出现多个。
 
   
  

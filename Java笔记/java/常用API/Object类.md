@@ -56,7 +56,7 @@ Object类比较的是地址值
 
 
 
-**<font style="color:#DF2A3F;">克隆</font>**（为protected类，想要使用就得重写）
+**克隆**（为protected类，想要使用就得重写）
 
 <!-- 这是一张图片，ocr 内容为：1/2.克隆对象 //细节: //方法在底层会帮我们创建一个对象,并把原对象中的数据拷贝过去. //书写细节: /1.重写OBJECT中的CLONE方法 //2.让JAVABEAN类实现CLONEABLE接口 1/3.创建原对象并调用CLONE就可以了. -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1746331662274-2f0034c2-3293-4c2d-93c8-a114f44f4b90.png)

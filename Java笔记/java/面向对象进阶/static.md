@@ -23,9 +23,9 @@ static表示静态，是java中的一个修饰符，可以修饰成员方法，�
 
 （1）在成员变量中使用static
 
-强调_**<font style="color:#DF2A3F;">共享</font>**_
+强调_**共享**_
 
-被该类所有对象共享 不属于对象，**<font style="color:#DF2A3F;">属于类</font>**。
+被该类所有对象共享 不属于对象，**属于类**。
 
 随着类的加载而加载，优先于对象存在
 
@@ -39,9 +39,9 @@ static表示静态，是java中的一个修饰符，可以修饰成员方法，�
 
 
 
-<font style="color:rgba(0, 0, 0, 0.85);">(2)在方法中使用static</font>
+(2)在方法中使用static
 
-<font style="color:rgba(0, 0, 0, 0.85);">普通的非静态方法需要先创建类的实例（对象），然后通过对象来调用方法；而被 static 修饰的静态方法属于类本身，可直接通过类名调用，无需创建对象。比如常见的数学工具类</font>`<font style="color:rgba(0, 0, 0, 0.85);">java.util.Math</font>`<font style="color:rgba(0, 0, 0, 0.85);">，其中的</font>`<font style="color:rgba(0, 0, 0, 0.85);">abs</font>`<font style="color:rgba(0, 0, 0, 0.85);">（求绝对值）、</font>`<font style="color:rgba(0, 0, 0, 0.85);">sqrt</font>`<font style="color:rgba(0, 0, 0, 0.85);">（求平方根）等方法都是静态方法，使用时直接</font>`<font style="color:rgba(0, 0, 0, 0.85);">Math.abs(-5)</font>`<font style="color:rgba(0, 0, 0, 0.85);"> 、</font>`<font style="color:rgba(0, 0, 0, 0.85);">Math.sqrt(9)</font>`<font style="color:rgba(0, 0, 0, 0.85);"> 即可，无需创建</font>`<font style="color:rgba(0, 0, 0, 0.85);">Math</font>`<font style="color:rgba(0, 0, 0, 0.85);">类的对象 ，这样能简化代码调用，提高开发效率。</font>
+普通的非静态方法需要先创建类的实例（对象），然后通过对象来调用方法；而被 static 修饰的静态方法属于类本身，可直接通过类名调用，无需创建对象。比如常见的数学工具类`java.util.Math`，其中的`abs`（求绝对值）、`sqrt`（求平方根）等方法都是静态方法，使用时直接`Math.abs(-5)` 、`Math.sqrt(9)` 即可，无需创建`Math`类的对象 ，这样能简化代码调用，提高开发效率。
 
 
 

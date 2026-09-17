@@ -5,11 +5,11 @@ doc_id: 284228006
 exported_at: 2026-09-12T09:41:07
 ---
 
-+ <font style="color:rgb(15, 17, 21);">  
-被 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@RestController</font>`<font style="color:rgb(15, 17, 21);"> 标记的类就是控制器</font>
-+ <font style="color:rgb(15, 17, 21);">负责</font>**<font style="color:rgb(15, 17, 21);">接收用户请求、调用业务逻辑、返回数据</font>**
-+ <font style="color:rgb(15, 17, 21);">按模块划分，可以有多个控制器（不是像 main 方法只有一个）</font>
-+ <font style="color:rgb(15, 17, 21);">控制器里不是所有方法都有 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@RequestMapping</font>`<font style="color:rgb(15, 17, 21);">，没有的只是内部辅助方法，外部无法访问</font>
++   
+被 `@RestController` 标记的类就是控制器
++ 负责**接收用户请求、调用业务逻辑、返回数据**
++ 按模块划分，可以有多个控制器（不是像 main 方法只有一个）
++ 控制器里不是所有方法都有 `@RequestMapping`，没有的只是内部辅助方法，外部无法访问
 
 ```java
 @RestController
@@ -31,6 +31,6 @@ public class UserController {
 }
 ```
 
-**<font style="color:rgb(15, 17, 21);">有 </font>**`**<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@RequestMapping</font>**`<font style="color:rgb(15, 17, 21);">：对外暴露 URL，浏览器可访问</font>  
-**<font style="color:rgb(15, 17, 21);">没有 </font>**`**<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">@RequestMapping</font>**`<font style="color:rgb(15, 17, 21);">：内部辅助方法，封装重复逻辑，不让外部触碰</font>
+**有 **`**@RequestMapping**`：对外暴露 URL，浏览器可访问  
+**没有 **`**@RequestMapping**`：内部辅助方法，封装重复逻辑，不让外部触碰
 

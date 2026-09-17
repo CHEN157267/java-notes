@@ -12,5 +12,5 @@ Cause: java.sql.SQLSyntaxErrorException: Table 'demo_db.user' doesn't exist
 
 ```
 
-<font style="color:rgba(0, 0, 0, 0.9);">规律：</font>**<font style="color:rgba(0, 0, 0, 0.9);">一层层 </font>**`**<font style="color:rgba(0, 0, 0, 0.9);background-color:rgba(0, 0, 0, 0.05);">Cause:</font>**`**<font style="color:rgba(0, 0, 0, 0.9);"> 往下剥，最里面那个才是真凶</font>**<font style="color:rgba(0, 0, 0, 0.9);">。外面的 </font>`<font style="color:rgba(0, 0, 0, 0.9);background-color:rgba(0, 0, 0, 0.05);">BadSqlGrammarException</font>`<font style="color:rgba(0, 0, 0, 0.9);"> 只是 Spring 给它套的"包装盒"。</font>
+规律：**一层层 **`**Cause:**`** 往下剥，最里面那个才是真凶**。外面的 `BadSqlGrammarException` 只是 Spring 给它套的"包装盒"。
 

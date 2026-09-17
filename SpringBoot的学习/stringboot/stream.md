@@ -17,11 +17,11 @@ stream中常见的方法是filter，map，foreach，collect，他们的作用分
 
 
 
-`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">map</font>`<font style="color:rgb(15, 17, 21);"> 接收一个函数式接口 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">Function<? super T, ? extends R></font>`<font style="color:rgb(15, 17, 21);">，这个函数的作用是：输入一个 T 类型的元素，返回一个 R 类型的结果。然后 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">map</font>`<font style="color:rgb(15, 17, 21);"> 会把这个函数应用到流中每个元素上，产生一个新的流，新流里的元素类型就是 R。</font>
+`map` 接收一个函数式接口 `Function<? super T, ? extends R>`，这个函数的作用是：输入一个 T 类型的元素，返回一个 R 类型的结果。然后 `map` 会把这个函数应用到流中每个元素上，产生一个新的流，新流里的元素类型就是 R。
 
 
 
-+ <font style="color:rgb(15, 17, 21);">至于方法体具体做了什么（可能是直接获取字段，也可能是复杂计算），</font>_**<font style="color:rgb(15, 17, 21);">对 </font>**_`_**<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">map</font>**_`_**<font style="color:rgb(15, 17, 21);"> 来说不重要，它只关心输入类型和输出类型。</font>**_
++ 至于方法体具体做了什么（可能是直接获取字段，也可能是复杂计算），_**对 **_`_**map**_`_** 来说不重要，它只关心输入类型和输出类型。**_
 
 ```java
 List<Integer> lengths = names.stream()
@@ -29,5 +29,5 @@ List<Integer> lengths = names.stream()
 .collect(Collectors.toList());
 ```
 
-<font style="color:rgb(15, 17, 21);">这里 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">map</font>`<font style="color:rgb(15, 17, 21);"> 把 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">String</font>`<font style="color:rgb(15, 17, 21);"> 类型转换成了 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">Integer</font>`<font style="color:rgb(15, 17, 21);"> 类型。即使方法体里是复杂逻辑，只要最终返回的是新类型，就是 map 的工作。</font>
+这里 `map` 把 `String` 类型转换成了 `Integer` 类型。即使方法体里是复杂逻辑，只要最终返回的是新类型，就是 map 的工作。
 

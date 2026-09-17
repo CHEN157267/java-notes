@@ -5,7 +5,7 @@ doc_id: 284080030
 exported_at: 2026-09-12T10:37:13
 ---
 
-## `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">getMessage()</font>`
+## `getMessage()`
 ```java
 public class ExceptionDemo1 {
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ public class ExceptionDemo1 {
 }
 ```
 
-## `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">printStackTrace()</font>`
+## `printStackTrace()`
 ```java
 public static int divide(int a, int b) {
     try {
@@ -45,24 +45,24 @@ public static int divide(int a, int b) {
 
 
 
-#### `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">e.getMessage()</font>`
-+ <font style="color:rgb(15, 17, 21);">返回异常消息的</font>**<font style="color:rgb(15, 17, 21);">字符串</font>**<font style="color:rgb(15, 17, 21);">（如</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">"/ by zero"</font>`<font style="color:rgb(15, 17, 21);">）。</font>
-+ <font style="color:rgb(15, 17, 21);">需要自己用</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">System.out.println</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">或</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">System.err.println</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">打印。</font>
+#### `e.getMessage()`
++ 返回异常消息的**字符串**（如 `"/ by zero"`）。
++ 需要自己用 `System.out.println` 或 `System.err.println` 打印。
 
-#### `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">e.printStackTrace()</font>`
-+ **<font style="color:rgb(15, 17, 21);">直接打印完整异常堆栈</font>**<font style="color:rgb(15, 17, 21);">，包括异常类型、消息、调用链（类名、方法名、行号）。</font>
-+ <font style="color:rgb(15, 17, 21);">不需要额外用 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">sout</font>`<font style="color:rgb(15, 17, 21);"> 包，默认输出到 </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">System.err</font>`<font style="color:rgb(15, 17, 21);">（错误流），显示在控制台。</font>
-+ **<font style="color:rgb(15, 17, 21);">两者都在控制台显示。</font>**<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">区别：</font>
-+ `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">getMessage()</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">返回字符串，灵活，可以存变量、写文件、发日志系统。</font>
-+ `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">printStackTrace()</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">直接打印，信息详细，但没法拿到字符串做其他处理。</font>
+#### `e.printStackTrace()`
++ **直接打印完整异常堆栈**，包括异常类型、消息、调用链（类名、方法名、行号）。
++ 不需要额外用 `sout` 包，默认输出到 `System.err`（错误流），显示在控制台。
++ **两者都在控制台显示。** 区别：
++ `getMessage()` 返回字符串，灵活，可以存变量、写文件、发日志系统。
++ `printStackTrace()` 直接打印，信息详细，但没法拿到字符串做其他处理。
 
-**<font style="color:rgb(15, 17, 21);">为什么真实项目不全用</font>****<font style="color:rgb(15, 17, 21);"> </font>**`**<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">printStackTrace()</font>**`**<font style="color:rgb(15, 17, 21);">？</font>**
+**为什么真实项目不全用**** **`**printStackTrace()**`**？**
 
-+ <font style="color:rgb(15, 17, 21);">它只能打印到控制台，没法灵活地写入文件、数据库或日志平台。</font>
-+ <font style="color:rgb(15, 17, 21);">真实项目用日志框架（如 Logback、Log4j），通常配合</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">log.error("消息", e)</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">使用，既记录消息又记录堆栈。</font>
++ 它只能打印到控制台，没法灵活地写入文件、数据库或日志平台。
++ 真实项目用日志框架（如 Logback、Log4j），通常配合 `log.error("消息", e)` 使用，既记录消息又记录堆栈。
 
-**<font style="color:rgb(15, 17, 21);">不需要背异常子类</font>**<font style="color:rgb(15, 17, 21);">，用</font><font style="color:rgb(15, 17, 21);"> </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">catch (Exception e)</font>`<font style="color:rgb(15, 17, 21);"> </font><font style="color:rgb(15, 17, 21);">就能接住绝大多数异常。等遇到具体需求再细分。</font>
+**不需要背异常子类**，用 `catch (Exception e)` 就能接住绝大多数异常。等遇到具体需求再细分。
 
-<font style="color:rgb(15, 17, 21);">  
-</font><font style="color:rgb(15, 17, 21);"> </font>
+  
+ 
 

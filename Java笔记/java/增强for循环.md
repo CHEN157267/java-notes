@@ -5,11 +5,11 @@ doc_id: 219659000
 exported_at: 2026-09-12T10:38:18
 ---
 
-**<font style="color:rgb(0, 0, 0) !important;">增强 for 循环（Enhanced For Loop）的设计初衷是为了简化数组和集合的遍历</font>**<font style="color:rgba(0, 0, 0, 0.85);">，但它的适用范围不仅限于此。本质上，</font>**<font style="color:rgb(0, 0, 0) !important;">只要对象实现了 </font>**`**<font style="color:rgb(0, 0, 0);">Iterable</font>**`**<font style="color:rgb(0, 0, 0) !important;"> 接口</font>**<font style="color:rgba(0, 0, 0, 0.85);">（提供 </font>`<font style="color:rgba(0, 0, 0, 0.85);">iterator()</font>`<font style="color:rgba(0, 0, 0, 0.85);"> 方法），或者是</font>**<font style="color:rgb(0, 0, 0) !important;">数组</font>**<font style="color:rgba(0, 0, 0, 0.85);">，就可以使用增强 for 循环。</font>
+**增强 for 循环（Enhanced For Loop）的设计初衷是为了简化数组和集合的遍历**，但它的适用范围不仅限于此。本质上，**只要对象实现了 **`**Iterable**`** 接口**（提供 `iterator()` 方法），或者是**数组**，就可以使用增强 for 循环。
 
 
 
-### <font style="color:rgb(0, 0, 0);">一、</font>**<font style="color:rgb(0, 0, 0) !important;">基础用法：遍历数组和集合</font>**
+### 一、**基础用法：遍历数组和集合**
 ```java
 int[] numbers = {1, 2, 3, 4, 5};
 for (int num : numbers) { // 遍历基本类型数组
@@ -28,8 +28,8 @@ for (String name : names) { // 遍历引用类型数组
 
 
 
-#### <font style="color:rgb(0, 0, 0);">2.</font><font style="color:rgb(0, 0, 0);"> </font>**<font style="color:rgb(0, 0, 0) !important;">集合（Collection）</font>**
-<font style="color:rgba(0, 0, 0, 0.85) !important;">所有实现了 </font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">java.util.Collection</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 接口的类（如 </font>`**<u><font style="color:#DF2A3F;">ArrayList</font></u>**`<font style="color:rgba(0, 0, 0, 0.85) !important;">、</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">LinkedList</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">、</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">HashSet</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 等）都默认实现了 </font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">Iterable</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 接口，因此可以直接使用增强 for 循环：</font>
+#### 2. **集合（Collection）**
+所有实现了 `java.util.Collection` 接口的类（如 `**<u>ArrayList</u>**`、`LinkedList`、`HashSet` 等）都默认实现了 `Iterable` 接口，因此可以直接使用增强 for 循环：
 
 ```java
 List<String> list = new ArrayList<>();
@@ -53,20 +53,20 @@ for (Integer num : set) { // 遍历 Set
 
 
 
-### **<font style="color:rgb(0, 0, 0) !important;">扩展用法：遍历实现</font>****<font style="color:rgb(0, 0, 0) !important;"> </font>**`**<font style="color:rgb(0, 0, 0);">Iterable</font>**`**<font style="color:rgb(0, 0, 0) !important;"> </font>****<font style="color:rgb(0, 0, 0) !important;">接口的任意对象</font>**
-<font style="color:rgba(0, 0, 0, 0.85) !important;">如果自定义类实现了 </font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">Iterable</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 接口并提供 </font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">iterator()</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 方法，也可以使用增强 for 循环遍历其元素。 </font>
-
-<font style="color:rgba(0, 0, 0, 0.85) !important;"></font>
-
-**<font style="color:rgb(0, 0, 0) !important;">关键点</font>**<font style="color:rgba(0, 0, 0, 0.85) !important;">：</font>
-
-+ `<font style="color:rgb(0, 0, 0);">Iterable</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> </font><font style="color:rgba(0, 0, 0, 0.85) !important;">接口要求类必须实现</font><font style="color:rgba(0, 0, 0, 0.85) !important;"> </font>`<font style="color:rgb(0, 0, 0);">iterator()</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> </font><font style="color:rgba(0, 0, 0, 0.85) !important;">方法，返回一个</font><font style="color:rgba(0, 0, 0, 0.85) !important;"> </font>`<font style="color:rgb(0, 0, 0);">Iterator</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> </font><font style="color:rgba(0, 0, 0, 0.85) !important;">对象。</font>
-+ <font style="color:rgba(0, 0, 0, 0.85) !important;">增强 for 循环本质上会调用 </font>`<font style="color:rgb(0, 0, 0);">iterator()</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 方法，并通过 </font>`<font style="color:rgb(0, 0, 0);">hasNext()</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 和 </font>`<font style="color:rgb(0, 0, 0);">next()</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;"> 方法迭代元素。</font>
+### **扩展用法：遍历实现**** **`**Iterable**`** ****接口的任意对象**
+如果自定义类实现了 `Iterable` 接口并提供 `iterator()` 方法，也可以使用增强 for 循环遍历其元素。 
 
 
 
-#### **<font style="color:rgb(0, 0, 0) !important;">非 Iterable 且非数组的对象</font>**
-**<font style="color:#DF2A3F;">如果一个类既不是数组，也没有实现 </font>**`**<font style="color:#DF2A3F;">Iterable</font>**`**<font style="color:#DF2A3F;"> 接口，则无法直接使用增强 for 循环。</font>**
+**关键点**：
+
++ `Iterable` 接口要求类必须实现 `iterator()` 方法，返回一个 `Iterator` 对象。
++ 增强 for 循环本质上会调用 `iterator()` 方法，并通过 `hasNext()` 和 `next()` 方法迭代元素。
+
+
+
+#### **非 Iterable 且非数组的对象**
+**如果一个类既不是数组，也没有实现 **`**Iterable**`** 接口，则无法直接使用增强 for 循环。**
 
 
 

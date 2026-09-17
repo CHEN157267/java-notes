@@ -5,7 +5,7 @@ doc_id: 285548836
 exported_at: 2026-09-17T22:25:50
 ---
 
-`<font style="color:rgba(0, 0, 0, 0.9);background-color:rgba(0, 0, 0, 0.05);">QueryWrapper</font>`<font style="color:rgba(0, 0, 0, 0.9);"> 的官方定位叫 </font>**<font style="color:rgba(0, 0, 0, 0.9);">条件构造器</font>**<font style="color:rgba(0, 0, 0, 0.9);">，说白了就是 </font>**<font style="color:rgba(0, 0, 0, 0.9);">SQL 里 </font>**`**<font style="color:rgba(0, 0, 0, 0.9);background-color:rgba(0, 0, 0, 0.05);">WHERE</font>**`**<font style="color:rgba(0, 0, 0, 0.9);"> 那部分的 Java 写法</font>**<font style="color:rgba(0, 0, 0, 0.9);">：</font>
+`QueryWrapper` 的官方定位叫 **条件构造器**，说白了就是 **SQL 里 **`**WHERE**`** 那部分的 Java 写法**：
 
 ```java
 你写的 Java                                   数据库看到的 SQL

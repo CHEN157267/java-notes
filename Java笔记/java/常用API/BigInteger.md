@@ -5,7 +5,7 @@ doc_id: 218583081
 exported_at: 2026-09-12T10:38:13
 ---
 
-_**<font style="color:#DF2A3F;">对象一旦创建，内部记录的值是无法改变的</font>**_
+_**对象一旦创建，内部记录的值是无法改变的**_
 
 <!-- 这是一张图片，ocr 内容为：说明 方法名 获取随机大整数,范围:[0 ~2的NUM次方-1] PUBLIC BIGINTEGER(INT NUM, RANDOM RND) 获取指定的大整数 PUBLIC BIGINTEGER(STRING VAL) 获取指定进制的大整数 PUBLIC BIGINTEGER(STRING VAL, INT RADIX) -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1746621063783-60ab82c0-18c6-4213-8e8a-e0aa7a18513a.png)

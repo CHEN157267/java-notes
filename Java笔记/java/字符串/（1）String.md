@@ -7,7 +7,7 @@ exported_at: 2026-09-12T10:38:57
 
 
 
-_**<font style="color:#DF2A3F;">在 Java 中，</font>**_`_**<font style="color:#DF2A3F;">equals</font>**_`_**<font style="color:#DF2A3F;">方法在</font>**_`_**<font style="color:#DF2A3F;">String</font>**_`_**<font style="color:#DF2A3F;">类中被重写了，它比较的是字符串的内容，而不是地址值。</font>**_<!-- 这是一张图片，ocr 内容为：字符串比较 BOOLEAN EQUALS方法(要比较的字符串) 完全一样结果才是TRUE,否则为FALSE 忽略大小写的比较 BOOLEAN EQUALSLGNORECASE(要比较的字符串) -->
+_**在 Java 中，**_`_**equals**_`_**方法在**_`_**String**_`_**类中被重写了，它比较的是字符串的内容，而不是地址值。**_<!-- 这是一张图片，ocr 内容为：字符串比较 BOOLEAN EQUALS方法(要比较的字符串) 完全一样结果才是TRUE,否则为FALSE 忽略大小写的比较 BOOLEAN EQUALSLGNORECASE(要比较的字符串) -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1743297983393-0a801eaa-dd02-4f9d-8cd8-66ea42f986ef.png)<!-- 这是一张图片，ocr 内容为：需求:键盘录入一个字符串,使用程序实现在控制台遍历该字符串 PUBLIC CHAR CHARAT(INDEX):根据索引返回字符 PUBLIC INTLENGTH():返回此字符串的长度 数组的长度:数组名.LENGTH 字符串的长度:字符串对象.LENGTH() "钢门123吹小雪" 长度:8 -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1743298085192-b3fff1a9-cf5b-4c1c-a8c8-92fc4957764e.png)
 
@@ -93,5 +93,5 @@ String的构造方法
 
 
 
-**<font style="color:#DF2A3F;">包头不包尾” 原则仅适用于 双参数 的 </font>**`**<font style="color:#DF2A3F;">substring</font>**`**<font style="color:#DF2A3F;"> 方法（即 </font>**`**<font style="color:#DF2A3F;">substring(beginIndex, endIndex)</font>**`**<font style="color:#DF2A3F;">）。</font>**
+**包头不包尾” 原则仅适用于 双参数 的 **`**substring**`** 方法（即 **`**substring(beginIndex, endIndex)**`**）。**
 

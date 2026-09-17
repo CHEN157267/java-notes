@@ -17,7 +17,7 @@ exported_at: 2026-09-12T10:33:34
 
 
 
-<font style="color:#DF2A3F;">注意点：无论输入什么，都会被转化成字符串</font>
+注意点：无论输入什么，都会被转化成字符串
 
 <!-- 这是一张图片，ocr 内容为：演示PYTHON的INPUT语句 获取键盘的输入信息 INPUT("请告诉我你是谁?") 三 NAME PRINT("我知道了,你是:%S"%NAME) #输入数字类型 NUM INPUT("请告诉我你的银行卡密码:") PRINT("你的银行卡密码的类型是:",TYPE(NUM)) 它通通都把它当做字符串来看待 NTROL -->
 ![](https://cdn.nlark.com/yuque/0/2025/png/52131016/1758960247801-5e0a4ece-b2fd-44d6-8567-8e2ff67062aa.png)
