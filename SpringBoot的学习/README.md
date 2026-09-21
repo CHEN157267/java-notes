@@ -1,4 +1,4 @@
-# SpringBoot的学习（80 篇）
+# SpringBoot的学习（86 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -67,6 +67,7 @@
 - [控制器（Controller）](<SpringBoot的学习/stringboot/注解/控制器（Controller）.md>)
 - [自定义注解 @interface](<SpringBoot的学习/stringboot/注解/自定义注解 @interface.md>)
 - [相关常识](<SpringBoot的学习/stringboot/相关常识.md>)
+- [Bean](<SpringBoot的学习/stringboot/相关常识/Bean.md>)
 - [JUnit](<SpringBoot的学习/stringboot/相关常识/JUnit.md>)
 - [Mapper](<SpringBoot的学习/stringboot/相关常识/Mapper.md>)
 - [Mapper中的insert方法的回流机制的原理](<SpringBoot的学习/stringboot/相关常识/Mapper/Mapper中的insert方法的回流机制的原理.md>)
@@ -77,6 +78,9 @@
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
+- [Wrapper](<SpringBoot的学习/stringboot/相关常识/Wrapper.md>)
+- [MyBatis-Plus 条件构造器（Wrapper）](<SpringBoot的学习/stringboot/相关常识/Wrapper/MyBatis-Plus 条件构造器（Wrapper）.md>)
+- [Wrapper家族](<SpringBoot的学习/stringboot/相关常识/Wrapper/Wrapper家族.md>)
 - ["注入"](<SpringBoot的学习/stringboot/相关常识/_注入_.md>)
 - [注入的三种方法](<SpringBoot的学习/stringboot/相关常识/_注入_/注入的三种方法.md>)
 - [需求方和提供方](<SpringBoot的学习/stringboot/相关常识/_注入_/需求方和提供方.md>)
@@ -86,10 +90,12 @@
 - [声明式校验](<SpringBoot的学习/stringboot/相关常识/关于形参注解/@Valid —— 接口层校验，给前端友好提示/声明式校验.md>)
 - [形参注解的注意事项](<SpringBoot的学习/stringboot/相关常识/关于形参注解/形参注解的注意事项.md>)
 - [@RequestParam 还能接表单](<SpringBoot的学习/stringboot/相关常识/关于形参注解/形参注解的注意事项/@RequestParam 还能接表单.md>)
+- [卫语句](<SpringBoot的学习/stringboot/相关常识/卫语句.md>)
 - [常用条件方法清单](<SpringBoot的学习/stringboot/相关常识/常用条件方法清单.md>)
 - [控制台打印与响应返回是两条通道](<SpringBoot的学习/stringboot/相关常识/控制台打印与响应返回是两条通道.md>)
 - [控制器autowire UserService 与“多态”的相似之处](<SpringBoot的学习/stringboot/相关常识/控制器autowire UserService 与“多态”的相似之处.md>)
 - [数据库操作都会返回"影响行数"，用它来判断成功/失败](<SpringBoot的学习/stringboot/相关常识/数据库操作都会返回_影响行数_，用它来判断成功_失败.md>)
+- [映射的两条通道](<SpringBoot的学习/stringboot/相关常识/映射的两条通道.md>)
 - [泛型占位符与@autowired多态的相似之处和区别](<SpringBoot的学习/stringboot/相关常识/泛型占位符与@autowired多态的相似之处和区别.md>)
 - [注入里的"依赖"与pom.xml 里的"依赖"的区别](<SpringBoot的学习/stringboot/相关常识/注入里的_依赖_与pom.xml 里的_依赖_的区别.md>)
 - [注解的种类](<SpringBoot的学习/stringboot/相关常识/注解的种类.md>)
