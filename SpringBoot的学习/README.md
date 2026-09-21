@@ -1,4 +1,4 @@
-# SpringBoot的学习（77 篇）
+# SpringBoot的学习（80 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -68,6 +68,9 @@
 - [自定义注解 @interface](<SpringBoot的学习/stringboot/注解/自定义注解 @interface.md>)
 - [相关常识](<SpringBoot的学习/stringboot/相关常识.md>)
 - [JUnit](<SpringBoot的学习/stringboot/相关常识/JUnit.md>)
+- [Mapper](<SpringBoot的学习/stringboot/相关常识/Mapper.md>)
+- [Mapper中的insert方法的回流机制的原理](<SpringBoot的学习/stringboot/相关常识/Mapper/Mapper中的insert方法的回流机制的原理.md>)
+- [常用的Mapper方法（BaseMapper）](<SpringBoot的学习/stringboot/相关常识/Mapper/常用的Mapper方法（BaseMapper）.md>)
 - [Mapper层中，Mapper继承的常用方法](<SpringBoot的学习/stringboot/相关常识/Mapper层中，Mapper继承的常用方法.md>)
 - [RESTful](<SpringBoot的学习/stringboot/相关常识/RESTful.md>)
 - [Service↔Controller 和 Mapper↔Service 相似之处](<SpringBoot的学习/stringboot/相关常识/Service↔Controller 和 Mapper↔Service 相似之处.md>)
