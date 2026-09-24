@@ -1,4 +1,4 @@
-# SpringBoot的学习（86 篇）
+# SpringBoot的学习（90 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -68,10 +68,12 @@
 - [自定义注解 @interface](<SpringBoot的学习/stringboot/注解/自定义注解 @interface.md>)
 - [相关常识](<SpringBoot的学习/stringboot/相关常识.md>)
 - [Bean](<SpringBoot的学习/stringboot/相关常识/Bean.md>)
+- [JDBC](<SpringBoot的学习/stringboot/相关常识/JDBC.md>)
 - [JUnit](<SpringBoot的学习/stringboot/相关常识/JUnit.md>)
 - [Mapper](<SpringBoot的学习/stringboot/相关常识/Mapper.md>)
 - [Mapper中的insert方法的回流机制的原理](<SpringBoot的学习/stringboot/相关常识/Mapper/Mapper中的insert方法的回流机制的原理.md>)
 - [常用的Mapper方法（BaseMapper）](<SpringBoot的学习/stringboot/相关常识/Mapper/常用的Mapper方法（BaseMapper）.md>)
+- [updatebyid的详解](<SpringBoot的学习/stringboot/相关常识/Mapper/常用的Mapper方法（BaseMapper）/updatebyid的详解.md>)
 - [Mapper层中，Mapper继承的常用方法](<SpringBoot的学习/stringboot/相关常识/Mapper层中，Mapper继承的常用方法.md>)
 - [RESTful](<SpringBoot的学习/stringboot/相关常识/RESTful.md>)
 - [Service↔Controller 和 Mapper↔Service 相似之处](<SpringBoot的学习/stringboot/相关常识/Service↔Controller 和 Mapper↔Service 相似之处.md>)
@@ -99,7 +101,9 @@
 - [泛型占位符与@autowired多态的相似之处和区别](<SpringBoot的学习/stringboot/相关常识/泛型占位符与@autowired多态的相似之处和区别.md>)
 - [注入里的"依赖"与pom.xml 里的"依赖"的区别](<SpringBoot的学习/stringboot/相关常识/注入里的_依赖_与pom.xml 里的_依赖_的区别.md>)
 - [注解的种类](<SpringBoot的学习/stringboot/相关常识/注解的种类.md>)
+- [状态码](<SpringBoot的学习/stringboot/相关常识/状态码.md>)
 - [用户发送请求的本质](<SpringBoot的学习/stringboot/相关常识/用户发送请求的本质.md>)
 - [耦合的含义](<SpringBoot的学习/stringboot/相关常识/耦合的含义.md>)
+- [自用状态码](<SpringBoot的学习/stringboot/相关常识/自用状态码.md>)
 - [相关知识](<SpringBoot的学习/stringboot/相关知识.md>)
 - [连接池](<SpringBoot的学习/stringboot/相关知识/连接池.md>)
