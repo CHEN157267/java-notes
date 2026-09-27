@@ -2,16 +2,16 @@
 
 > 本仓库由语雀笔记自动同步而来，记录我的学习过程与思考（Java / SpringBoot / Python / 前端 / 数学 / 英语 …）。
 
-> 最近同步：2026-09-24 ｜ 共 **650** 篇 ｜ 自动同步：每 3 天一次
+> 最近同步：2026-09-27 ｜ 共 **674** 篇 ｜ 自动同步：每 3 天一次
 
 
 ## 知识库导航
 
 - [Git（4 篇）](<Git/README.md>)
-- [Java笔记（176 篇）](<Java笔记/README.md>)
+- [Java笔记（184 篇）](<Java笔记/README.md>)
 - [Python笔记（98 篇）](<Python笔记/README.md>)
 - [SQL（21 篇）](<SQL/README.md>)
-- [SpringBoot的学习（90 篇）](<SpringBoot的学习/README.md>)
+- [SpringBoot的学习（106 篇）](<SpringBoot的学习/README.md>)
 - [prompt提示词工程（4 篇）](<prompt提示词工程/README.md>)
 - [其他知识（139 篇）](<其他知识/README.md>)
 - [前端（73 篇）](<前端/README.md>)
