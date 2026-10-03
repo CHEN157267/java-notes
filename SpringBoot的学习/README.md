@@ -1,4 +1,4 @@
-# SpringBoot的学习（106 篇）
+# SpringBoot的学习（115 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -80,6 +80,14 @@
 - [RESTful](<SpringBoot的学习/stringboot/相关常识/RESTful.md>)
 - [Service↔Controller 和 Mapper↔Service 相似之处](<SpringBoot的学习/stringboot/相关常识/Service↔Controller 和 Mapper↔Service 相似之处.md>)
 - [Springboot中的测试](<SpringBoot的学习/stringboot/相关常识/Springboot中的测试.md>)
+- [Task6笔记](<SpringBoot的学习/stringboot/相关常识/Task6笔记.md>)
+- [@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？.md>)
+- [Supplier 是什么](<SpringBoot的学习/stringboot/相关常识/Task6笔记/Supplier 是什么.md>)
+- [value](<SpringBoot的学习/stringboot/相关常识/Task6笔记/value.md>)
+- [兜底方法返回 String 会出现什么问题？为什么换 Result<Void> 就好了？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/兜底方法返回 String 会出现什么问题？为什么换 Result_Void_ 就好了？.md>)
+- [枚举常量 与 静态导入](<SpringBoot的学习/stringboot/相关常识/Task6笔记/枚举常量 与 静态导入.md>)
+- [注解括号里的写法：value 的省略特权](<SpringBoot的学习/stringboot/相关常识/Task6笔记/注解括号里的写法：value 的省略特权.md>)
+- [Task7笔记](<SpringBoot的学习/stringboot/相关常识/Task7笔记.md>)
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
@@ -118,6 +126,7 @@
 - [注入里的"依赖"与pom.xml 里的"依赖"的区别](<SpringBoot的学习/stringboot/相关常识/注入里的_依赖_与pom.xml 里的_依赖_的区别.md>)
 - [注解的种类](<SpringBoot的学习/stringboot/相关常识/注解的种类.md>)
 - [状态码](<SpringBoot的学习/stringboot/相关常识/状态码.md>)
+- [项目状态码](<SpringBoot的学习/stringboot/相关常识/状态码/项目状态码.md>)
 - [用户发送请求的本质](<SpringBoot的学习/stringboot/相关常识/用户发送请求的本质.md>)
 - [耦合的含义](<SpringBoot的学习/stringboot/相关常识/耦合的含义.md>)
 - [自用状态码](<SpringBoot的学习/stringboot/相关常识/自用状态码.md>)
