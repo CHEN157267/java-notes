@@ -1,4 +1,4 @@
-# SpringBoot的学习（115 篇）
+# SpringBoot的学习（123 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -88,6 +88,14 @@
 - [枚举常量 与 静态导入](<SpringBoot的学习/stringboot/相关常识/Task6笔记/枚举常量 与 静态导入.md>)
 - [注解括号里的写法：value 的省略特权](<SpringBoot的学习/stringboot/相关常识/Task6笔记/注解括号里的写法：value 的省略特权.md>)
 - [Task7笔记](<SpringBoot的学习/stringboot/相关常识/Task7笔记.md>)
+- [Error 和 Exception 是「平级兄弟」](<SpringBoot的学习/stringboot/相关常识/Task7笔记/Error 和 Exception 是「平级兄弟」.md>)
+- [OpenAPI 文档注解（四层注解）](<SpringBoot的学习/stringboot/相关常识/Task7笔记/OpenAPI 文档注解（四层注解）.md>)
+- [Q2.版本伪成功问题](<SpringBoot的学习/stringboot/相关常识/Task7笔记/Q2.版本伪成功问题.md>)
+- [Q4 · "编译能过 ≠ 用法正确"](<SpringBoot的学习/stringboot/相关常识/Task7笔记/Q4 · _编译能过 ≠ 用法正确_.md>)
+- ["依赖"和"注入"的区别](<SpringBoot的学习/stringboot/相关常识/Task7笔记/_依赖_和_注入_的区别.md>)
+- [字段注入 vs 构造器注入](<SpringBoot的学习/stringboot/相关常识/Task7笔记/_依赖_和_注入_的区别/字段注入 vs 构造器注入.md>)
+- [两个界面的兜底规则](<SpringBoot的学习/stringboot/相关常识/Task7笔记/两个界面的兜底规则.md>)
+- [Task8笔记](<SpringBoot的学习/stringboot/相关常识/Task8笔记.md>)
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
