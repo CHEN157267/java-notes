@@ -1,4 +1,4 @@
-# SpringBoot的学习（123 篇）
+# SpringBoot的学习（134 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -96,6 +96,17 @@
 - [字段注入 vs 构造器注入](<SpringBoot的学习/stringboot/相关常识/Task7笔记/_依赖_和_注入_的区别/字段注入 vs 构造器注入.md>)
 - [两个界面的兜底规则](<SpringBoot的学习/stringboot/相关常识/Task7笔记/两个界面的兜底规则.md>)
 - [Task8笔记](<SpringBoot的学习/stringboot/相关常识/Task8笔记.md>)
+- [一、返回码与异常的差别](<SpringBoot的学习/stringboot/相关常识/Task8笔记/一、返回码与异常的差别.md>)
+- [七、那个 favicon 事故](<SpringBoot的学习/stringboot/相关常识/Task8笔记/七、那个 favicon 事故.md>)
+- [三、throw / throws / checked 与 unchecked ★](<SpringBoot的学习/stringboot/相关常识/Task8笔记/三、throw _ throws _ checked 与 unchecked ★.md>)
+- [九、接口设计：id 从哪来 决定要不要判存在](<SpringBoot的学习/stringboot/相关常识/Task8笔记/九、接口设计：id 从哪来 决定要不要判存在.md>)
+- [二、BusinessException 的设计](<SpringBoot的学习/stringboot/相关常识/Task8笔记/二、BusinessException 的设计.md>)
+- [五、HTTP 状态码的约定与代价](<SpringBoot的学习/stringboot/相关常识/Task8笔记/五、HTTP 状态码的约定与代价.md>)
+- [八、业务异常 vs 系统异常](<SpringBoot的学习/stringboot/相关常识/Task8笔记/八、业务异常 vs 系统异常.md>)
+- [六、updateById 返回 0 到底代表什么 ★（本次唯一硬错）](<SpringBoot的学习/stringboot/相关常识/Task8笔记/六、updateById 返回 0 到底代表什么 ★（本次唯一硬错）.md>)
+- [十、附加思考：Service 该不该返回 Result](<SpringBoot的学习/stringboot/相关常识/Task8笔记/十、附加思考：Service 该不该返回 Result.md>)
+- [四、异常怎么找到 handler ★](<SpringBoot的学习/stringboot/相关常识/Task8笔记/四、异常怎么找到 handler ★.md>)
+- [追问补遗](<SpringBoot的学习/stringboot/相关常识/Task8笔记/追问补遗.md>)
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
