@@ -1,4 +1,4 @@
-# SpringBoot的学习（134 篇）
+# SpringBoot的学习（139 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -107,6 +107,11 @@
 - [十、附加思考：Service 该不该返回 Result](<SpringBoot的学习/stringboot/相关常识/Task8笔记/十、附加思考：Service 该不该返回 Result.md>)
 - [四、异常怎么找到 handler ★](<SpringBoot的学习/stringboot/相关常识/Task8笔记/四、异常怎么找到 handler ★.md>)
 - [追问补遗](<SpringBoot的学习/stringboot/相关常识/Task8笔记/追问补遗.md>)
+- [Task9笔记](<SpringBoot的学习/stringboot/相关常识/Task9笔记.md>)
+- [application.properties](<SpringBoot的学习/stringboot/相关常识/Task9笔记/application.properties.md>)
+- [pom的依赖](<SpringBoot的学习/stringboot/相关常识/Task9笔记/pom的依赖.md>)
+- [参数注解](<SpringBoot的学习/stringboot/相关常识/Task9笔记/参数注解.md>)
+- [异常](<SpringBoot的学习/stringboot/相关常识/Task9笔记/异常.md>)
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
