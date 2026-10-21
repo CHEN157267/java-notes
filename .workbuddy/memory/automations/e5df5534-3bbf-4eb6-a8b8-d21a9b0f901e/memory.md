@@ -57,6 +57,13 @@
 - **推送失败原因：本机代理 Clash (127.0.0.1:7897) 未开启**，git push 报 `Failed to connect to 127.0.0.1 port 7897`。
 - 处理：本次同步未完成推送。提醒用户打开 Clash（代理 127.0.0.1:7897）后重新运行脚本即可（本地 commit 已就绪，重跑会直接推送）。
 
+### 2026-10-21 12:21 (GMT+8)
+- 退出码：**3（推送失败）**
+- 语雀侧已成功：新增 3、更新 0、跳过 706、空壳 0、失败 5、非文档 0；索引刷新至 712 篇；本地 git commit 成功（6 files changed, 490 insertions(+), 3 deletions(-)），commit `eab0909`.
+- 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
+- **推送失败原因：本机代理 Clash (127.0.0.1:7897) 未开启**，git push 报 `Failed to connect to 127.0.0.1 port 7897`.
+- 处理：本次同步未完成推送。提醒用户打开 Clash（代理 127.0.0.1:7897）后重新运行脚本即可（本地 commit 已就绪，重跑会直接推送）。
+
 ## 退出码约定
 - 0 = 成功（可能无变更跳过提交）
 - 2 = 语雀登录态失效（需重扫 C:\Users\ASUS\.yuque\cookies.json）
