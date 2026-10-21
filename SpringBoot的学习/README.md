@@ -1,4 +1,4 @@
-# SpringBoot的学习（139 篇）
+# SpringBoot的学习（142 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -112,6 +112,9 @@
 - [pom的依赖](<SpringBoot的学习/stringboot/相关常识/Task9笔记/pom的依赖.md>)
 - [参数注解](<SpringBoot的学习/stringboot/相关常识/Task9笔记/参数注解.md>)
 - [异常](<SpringBoot的学习/stringboot/相关常识/Task9笔记/异常.md>)
+- [接口变量从哪来](<SpringBoot的学习/stringboot/相关常识/Task9笔记/接口变量从哪来.md>)
+- [自测题](<SpringBoot的学习/stringboot/相关常识/Task9笔记/自测题.md>)
+- [自测题总结](<SpringBoot的学习/stringboot/相关常识/Task9笔记/自测题总结.md>)
 - [Wrapper 是什么？](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？.md>)
 - [QueryWrapper的使用](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/QueryWrapper的使用.md>)
 - [wrapper 的完整用法：4 步心法](<SpringBoot的学习/stringboot/相关常识/Wrapper 是什么？/wrapper 的完整用法：4 步心法.md>)
