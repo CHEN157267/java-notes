@@ -1,4 +1,4 @@
-# SpringBoot的学习（142 篇）
+# SpringBoot的学习（155 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -110,7 +110,20 @@
 - [Task9笔记](<SpringBoot的学习/stringboot/相关常识/Task9笔记.md>)
 - [application.properties](<SpringBoot的学习/stringboot/相关常识/Task9笔记/application.properties.md>)
 - [pom的依赖](<SpringBoot的学习/stringboot/相关常识/Task9笔记/pom的依赖.md>)
+- [一、接入链路全景](<SpringBoot的学习/stringboot/相关常识/Task9笔记/一、接入链路全景.md>)
+- [七、异常处理](<SpringBoot的学习/stringboot/相关常识/Task9笔记/七、异常处理.md>)
+- [三、配置体系：application里的properties与pom里的properties标签](<SpringBoot的学习/stringboot/相关常识/Task9笔记/三、配置体系：application里的properties与pom里的properties标签.md>)
+- [九、参数与 URL（复习）](<SpringBoot的学习/stringboot/相关常识/Task9笔记/九、参数与 URL（复习）.md>)
+- [二、Maven 与 BOM](<SpringBoot的学习/stringboot/相关常识/Task9笔记/二、Maven 与 BOM.md>)
+- [BOM 到底是什么：从"二级依赖"这个推论说起](<SpringBoot的学习/stringboot/相关常识/Task9笔记/二、Maven 与 BOM/BOM 到底是什么：从_二级依赖_这个推论说起.md>)
+- [配置pom依赖的常见错误](<SpringBoot的学习/stringboot/相关常识/Task9笔记/二、Maven 与 BOM/配置pom依赖的常见错误.md>)
+- [五、Spring AI 与 ChatClient](<SpringBoot的学习/stringboot/相关常识/Task9笔记/五、Spring AI 与 ChatClient.md>)
+- [八、重试机制](<SpringBoot的学习/stringboot/相关常识/Task9笔记/八、重试机制.md>)
+- [六、DeepSeek 的模型名](<SpringBoot的学习/stringboot/相关常识/Task9笔记/六、DeepSeek 的模型名.md>)
+- [十、日志](<SpringBoot的学习/stringboot/相关常识/Task9笔记/十、日志.md>)
+- [十一、RAG 前瞻（Task10）](<SpringBoot的学习/stringboot/相关常识/Task9笔记/十一、RAG 前瞻（Task10）.md>)
 - [参数注解](<SpringBoot的学习/stringboot/相关常识/Task9笔记/参数注解.md>)
+- [四、密钥管理](<SpringBoot的学习/stringboot/相关常识/Task9笔记/四、密钥管理.md>)
 - [异常](<SpringBoot的学习/stringboot/相关常识/Task9笔记/异常.md>)
 - [接口变量从哪来](<SpringBoot的学习/stringboot/相关常识/Task9笔记/接口变量从哪来.md>)
 - [自测题](<SpringBoot的学习/stringboot/相关常识/Task9笔记/自测题.md>)
