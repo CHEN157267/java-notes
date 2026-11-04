@@ -2,7 +2,7 @@
 title: 三、配置体系：application里的properties与pom里的properties标签
 url: https://www.yuque.com/ehsuh/pggizs/vtkzxxotbluopryw
 doc_id: 289216674
-exported_at: 2026-10-22T23:47:28
+exported_at: 2026-11-04T19:32:12
 ---
 
 | | pom 的 `<properties>` | `application.properties` |

@@ -2,7 +2,7 @@
 title: 五、Spring AI 与 ChatClient
 url: https://www.yuque.com/ehsuh/pggizs/luitg4t8zbtnpoqy
 doc_id: 289218241
-exported_at: 2026-10-22T23:47:29
+exported_at: 2026-11-04T19:32:13
 ---
 
 ### 1 Spring AI 是什么

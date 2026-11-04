@@ -2,7 +2,7 @@
 title: 配置pom依赖的常见错误
 url: https://www.yuque.com/ehsuh/pggizs/ia65pg0ir3x74g8r
 doc_id: 289216566
-exported_at: 2026-10-22T23:47:27
+exported_at: 2026-11-04T19:32:11
 ---
 
 | 错误写法 | Maven 报什么 |

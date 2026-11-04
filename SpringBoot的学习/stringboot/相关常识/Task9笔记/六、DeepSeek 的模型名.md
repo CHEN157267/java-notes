@@ -2,7 +2,7 @@
 title: 六、DeepSeek 的模型名
 url: https://www.yuque.com/ehsuh/pggizs/ydau5din7kbmdq1h
 doc_id: 289218828
-exported_at: 2026-10-22T23:47:30
+exported_at: 2026-11-04T19:32:14
 ---
 
 | 传入的 model | HTTP | 平台返回的 model | total_tokens | message 字段 |

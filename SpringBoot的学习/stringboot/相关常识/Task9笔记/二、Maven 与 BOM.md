@@ -2,7 +2,7 @@
 title: 二、Maven 与 BOM
 url: https://www.yuque.com/ehsuh/pggizs/uifis9m4a2mp7fk3
 doc_id: 289216280
-exported_at: 2026-10-22T23:47:26
+exported_at: 2026-11-04T19:32:10
 ---
 
 ### 1 BOM 是什么

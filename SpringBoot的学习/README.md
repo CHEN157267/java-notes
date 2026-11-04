@@ -1,4 +1,4 @@
-# SpringBoot的学习（155 篇）
+# SpringBoot的学习（166 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -80,6 +80,17 @@
 - [RESTful](<SpringBoot的学习/stringboot/相关常识/RESTful.md>)
 - [Service↔Controller 和 Mapper↔Service 相似之处](<SpringBoot的学习/stringboot/相关常识/Service↔Controller 和 Mapper↔Service 相似之处.md>)
 - [Springboot中的测试](<SpringBoot的学习/stringboot/相关常识/Springboot中的测试.md>)
+- [Task10笔记](<SpringBoot的学习/stringboot/相关常识/Task10笔记.md>)
+- [Task10 自测题 · 知识点总结](<SpringBoot的学习/stringboot/相关常识/Task10笔记/Task10 自测题 · 知识点总结.md>)
+- [Task10 自测题（RAG 全链路）](<SpringBoot的学习/stringboot/相关常识/Task10笔记/Task10 自测题（RAG 全链路）.md>)
+- [一、RAG 是什么](<SpringBoot的学习/stringboot/相关常识/Task10笔记/一、RAG 是什么.md>)
+- [七、拼 prompt + 生成](<SpringBoot的学习/stringboot/相关常识/Task10笔记/七、拼 prompt + 生成.md>)
+- [三、★ 两个 ChatModel 打架（必须记住的配置）](<SpringBoot的学习/stringboot/相关常识/Task10笔记/三、★ 两个 ChatModel 打架（必须记住的配置）.md>)
+- [二、技术选型：为什么用了两家](<SpringBoot的学习/stringboot/相关常识/Task10笔记/二、技术选型：为什么用了两家.md>)
+- [五、Embedding 与存储](<SpringBoot的学习/stringboot/相关常识/Task10笔记/五、Embedding 与存储.md>)
+- [八、评估：9 → 9.5](<SpringBoot的学习/stringboot/相关常识/Task10笔记/八、评估：9 → 9.5.md>)
+- [六、检索：similaritySearch 内部做了什么](<SpringBoot的学习/stringboot/相关常识/Task10笔记/六、检索：similaritySearch 内部做了什么.md>)
+- [四、切分：从「按 token 硬切」到「按标题切」](<SpringBoot的学习/stringboot/相关常识/Task10笔记/四、切分：从「按 token 硬切」到「按标题切」.md>)
 - [Task6笔记](<SpringBoot的学习/stringboot/相关常识/Task6笔记.md>)
 - [@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？.md>)
 - [Supplier 是什么](<SpringBoot的学习/stringboot/相关常识/Task6笔记/Supplier 是什么.md>)

@@ -2,7 +2,7 @@
 title: 十一、RAG 前瞻（Task10）
 url: https://www.yuque.com/ehsuh/pggizs/puepo5vao2i8qce0
 doc_id: 289230868
-exported_at: 2026-10-22T23:47:33
+exported_at: 2026-11-04T19:32:17
 ---
 
 ### 1 现在这个接口的局限

@@ -2,7 +2,7 @@
 title: BOM 到底是什么：从"二级依赖"这个推论说起
 url: https://www.yuque.com/ehsuh/pggizs/epg14o1kxh02ha5i
 doc_id: 289233939
-exported_at: 2026-10-22T23:47:26
+exported_at: 2026-11-04T19:32:11
 ---
 
 ## 一、原话（保留）
