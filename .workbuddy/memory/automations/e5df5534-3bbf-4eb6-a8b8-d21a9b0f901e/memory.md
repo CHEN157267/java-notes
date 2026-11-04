@@ -71,6 +71,12 @@
 - **推送失败原因仍为本机代理 Clash (127.0.0.1:7897) 未开启**，git push 报 `Failed to connect to 127.0.0.1 port 7897`.
 - 处理：本次同步仍未完成推送。提醒用户打开 Clash 后重新运行脚本，两个本地 commit 会一并推上去。
 
+### 2026-11-04 19:32 (GMT+8)
+- 退出码：**0（同步成功）**
+- 结果：新增 24、更新 0、跳过 704、空壳 0、失败 5、非文档 0；索引刷新至 736 篇；git 提交 `a1e04f1`（27 files changed, 857 insertions, 36 deletions）并推送成功。
+- 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
+- 本机代理 Clash (127.0.0.1:7897) 正常，GitHub 推送成功。
+
 ## 退出码约定
 - 0 = 成功（可能无变更跳过提交）
 - 2 = 语雀登录态失效（需重扫 C:\Users\ASUS\.yuque\cookies.json）
