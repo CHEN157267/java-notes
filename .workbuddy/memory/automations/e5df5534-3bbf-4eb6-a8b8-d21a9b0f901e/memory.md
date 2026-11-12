@@ -77,6 +77,13 @@
 - 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
 - 本机代理 Clash (127.0.0.1:7897) 正常，GitHub 推送成功。
 
+### 2026-11-05 10:21 (GMT+8)
+- 退出码：**3（推送失败）**
+- 语雀侧：新增 0、更新 0、跳过 728、空壳 0、失败 5、非文档 0；索引 736 篇；本地 git commit 成功（`1d3dfef`，1 file changed, 1 insertion, 1 deletion）。
+- 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
+- **推送失败原因：本机代理 Clash (127.0.0.1:7897) 未开启**，git push 报 `Failed to connect to 127.0.0.1 port 7897`。
+- 处理：本次同步未完成推送。提醒用户打开 Clash（代理 127.0.0.1:7897）后重新运行脚本即可（本地 commit `1d3dfef` 已就绪，重跑会直接推送）。
+
 ## 退出码约定
 - 0 = 成功（可能无变更跳过提交）
 - 2 = 语雀登录态失效（需重扫 C:\Users\ASUS\.yuque\cookies.json）

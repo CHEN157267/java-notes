@@ -1,4 +1,4 @@
-# SpringBoot的学习（166 篇）
+# SpringBoot的学习（177 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -91,6 +91,17 @@
 - [八、评估：9 → 9.5](<SpringBoot的学习/stringboot/相关常识/Task10笔记/八、评估：9 → 9.5.md>)
 - [六、检索：similaritySearch 内部做了什么](<SpringBoot的学习/stringboot/相关常识/Task10笔记/六、检索：similaritySearch 内部做了什么.md>)
 - [四、切分：从「按 token 硬切」到「按标题切」](<SpringBoot的学习/stringboot/相关常识/Task10笔记/四、切分：从「按 token 硬切」到「按标题切」.md>)
+- [Task11笔记](<SpringBoot的学习/stringboot/相关常识/Task11笔记.md>)
+- [Task11附加知识点](<SpringBoot的学习/stringboot/相关常识/Task11笔记/Task11附加知识点.md>)
+- [一、这个 Task 做了什么](<SpringBoot的学习/stringboot/相关常识/Task11笔记/一、这个 Task 做了什么.md>)
+- [七、缓存三坑](<SpringBoot的学习/stringboot/相关常识/Task11笔记/七、缓存三坑.md>)
+- [三、Redis的启动](<SpringBoot的学习/stringboot/相关常识/Task11笔记/三、Redis的启动.md>)
+- [二、Redis 是什么](<SpringBoot的学习/stringboot/相关常识/Task11笔记/二、Redis 是什么.md>)
+- [五、缓存的读写链路](<SpringBoot的学习/stringboot/相关常识/Task11笔记/五、缓存的读写链路.md>)
+- [六、失效与过期](<SpringBoot的学习/stringboot/相关常识/Task11笔记/六、失效与过期.md>)
+- [四、Spring Boot 怎么接](<SpringBoot的学习/stringboot/相关常识/Task11笔记/四、Spring Boot 怎么接.md>)
+- [学习笔记 · Task11 自测题知识点总结](<SpringBoot的学习/stringboot/相关常识/Task11笔记/学习笔记 · Task11 自测题知识点总结.md>)
+- [学习笔记 · Task11 自测题（Redis 缓存）](<SpringBoot的学习/stringboot/相关常识/Task11笔记/学习笔记 · Task11 自测题（Redis 缓存）.md>)
 - [Task6笔记](<SpringBoot的学习/stringboot/相关常识/Task6笔记.md>)
 - [@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？.md>)
 - [Supplier 是什么](<SpringBoot的学习/stringboot/相关常识/Task6笔记/Supplier 是什么.md>)
