@@ -90,6 +90,12 @@
 - 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
 - 本机代理 Clash (127.0.0.1:7897) 正常（本次推送成功），GitHub 推送成功。
 
+### 2026-11-20 09:59 (GMT+8)
+- 退出码：**0（同步成功）**
+- 结果：新增 3、更新 0、跳过 739、空壳 1、失败 5、非文档 0；索引刷新至 751 篇；git 提交 `57ee717`（7 files changed, 933 insertions, 3 deletions）并推送成功。
+- 失败节点（非关键，与历史一致）：SpringBoot 的 `stringboot`、`注解`；prompt 的 `常见框架`；Python 的 `封装`；Java 的 `Map`。原因仍待排查。
+- 本机代理 Clash (127.0.0.1:7897) 正常，GitHub 推送成功。
+
 ## 退出码约定
 - 0 = 成功（可能无变更跳过提交）
 - 2 = 语雀登录态失效（需重扫 C:\Users\ASUS\.yuque\cookies.json）
