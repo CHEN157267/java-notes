@@ -1,4 +1,4 @@
-# SpringBoot的学习（177 篇）
+# SpringBoot的学习（181 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -194,3 +194,7 @@
 - [自用状态码](<SpringBoot的学习/stringboot/相关常识/自用状态码.md>)
 - [相关知识](<SpringBoot的学习/stringboot/相关知识.md>)
 - [连接池](<SpringBoot的学习/stringboot/相关知识/连接池.md>)
+- [项目总回顾 · 逐节复盘笔记](<SpringBoot的学习/stringboot/项目总回顾 · 逐节复盘笔记.md>)
+- [第 1 节 · User 实体 与 GlobalExceptionHandler](<SpringBoot的学习/stringboot/项目总回顾 · 逐节复盘笔记/第 1 节 · User 实体 与 GlobalExceptionHandler.md>)
+- [第 2 节 · RAG 部分（DTO / RagLoader / RagServiceImpl）](<SpringBoot的学习/stringboot/项目总回顾 · 逐节复盘笔记/第 2 节 · RAG 部分（DTO _ RagLoader _ RagServiceImpl）.md>)
+- [第 3 节 · Spring 机制补充](<SpringBoot的学习/stringboot/项目总回顾 · 逐节复盘笔记/第 3 节 · Spring 机制补充.md>)
