@@ -1,4 +1,4 @@
-# SpringBoot的学习（181 篇）
+# SpringBoot的学习（193 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -102,6 +102,18 @@
 - [四、Spring Boot 怎么接](<SpringBoot的学习/stringboot/相关常识/Task11笔记/四、Spring Boot 怎么接.md>)
 - [学习笔记 · Task11 自测题知识点总结](<SpringBoot的学习/stringboot/相关常识/Task11笔记/学习笔记 · Task11 自测题知识点总结.md>)
 - [学习笔记 · Task11 自测题（Redis 缓存）](<SpringBoot的学习/stringboot/相关常识/Task11笔记/学习笔记 · Task11 自测题（Redis 缓存）.md>)
+- [Task12笔记](<SpringBoot的学习/stringboot/相关常识/Task12笔记.md>)
+- [Task12 自测题 · 知识点总结](<SpringBoot的学习/stringboot/相关常识/Task12笔记/Task12 自测题 · 知识点总结.md>)
+- [Task12 自测题（RAG 之外的第一个 Agent）](<SpringBoot的学习/stringboot/相关常识/Task12笔记/Task12 自测题（RAG 之外的第一个 Agent）.md>)
+- [一、本质：模型没有手](<SpringBoot的学习/stringboot/相关常识/Task12笔记/一、本质：模型没有手.md>)
+- [七、description 的写法](<SpringBoot的学习/stringboot/相关常识/Task12笔记/七、description 的写法.md>)
+- [三、参数从哪来：抽取](<SpringBoot的学习/stringboot/相关常识/Task12笔记/三、参数从哪来：抽取.md>)
+- [九、环境坑：网络连不上](<SpringBoot的学习/stringboot/相关常识/Task12笔记/九、环境坑：网络连不上.md>)
+- [二、三段 messages：谁写的](<SpringBoot的学习/stringboot/相关常识/Task12笔记/二、三段 messages：谁写的.md>)
+- [五、反射与注解：不是两件事](<SpringBoot的学习/stringboot/相关常识/Task12笔记/五、反射与注解：不是两件事.md>)
+- [八、可观测日志](<SpringBoot的学习/stringboot/相关常识/Task12笔记/八、可观测日志.md>)
+- [六、安全边界：为什么不给写操作](<SpringBoot的学习/stringboot/相关常识/Task12笔记/六、安全边界：为什么不给写操作.md>)
+- [四、注册工具：三个注解](<SpringBoot的学习/stringboot/相关常识/Task12笔记/四、注册工具：三个注解.md>)
 - [Task6笔记](<SpringBoot的学习/stringboot/相关常识/Task6笔记.md>)
 - [@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？.md>)
 - [Supplier 是什么](<SpringBoot的学习/stringboot/相关常识/Task6笔记/Supplier 是什么.md>)
