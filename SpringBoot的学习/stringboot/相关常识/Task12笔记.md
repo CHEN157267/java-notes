@@ -2,8 +2,10 @@
 title: Task12笔记
 url: https://www.yuque.com/ehsuh/pggizs/estv3fig792ns94w
 doc_id: 292826201
-exported_at: 2026-11-22T10:02:02
+exported_at: 2026-11-22T10:22:28
 ---
+
+内容分九节，见下方子文档」+ 目录
 
 ## 这个 Task 做了什么（速览）
 给 `/ai/chat` 接上「能查数据库」的能力：用户问“id 为 4 的用户是谁”，模型不再说“我不知道”，而是**输出一段调用意图**，由我们的代码执行查询，再把结果交回模型组织回答。
