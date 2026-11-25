@@ -2,8 +2,29 @@
 title: Task13笔记
 url: https://www.yuque.com/ehsuh/pggizs/eu4rlpget9vihgaq
 doc_id: 292985331
-exported_at: 2026-11-25T18:20:15
+exported_at: 2026-11-25T18:28:14
 ---
+
+## 一  登录链路
+二  为什么不能 WHERE password = ?（三层原因）
+
+三  matches 三步 + 哈希串结构 + 47ms 实测
+
+四  两种失败同一句话（用户名枚举）
+
+五  @TableField 两面性 + 动机 ≠ 现状
+
+六  唯一索引（主键对比 / 加索引顺序 / 两道防线）
+
+七  接口设计（POST vs GET/PUT / 幂等 / DTO）
+
+八  日志安全
+
+九  数据库变更（四条 SQL，可复现）
+
+十  遗留
+
+
 
 ## ①这个 Task 做了什么（速览）
 Task5 存了密码哈希，但**从来没校验过**。这个 Task 补上登录：
