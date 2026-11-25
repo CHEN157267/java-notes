@@ -1,4 +1,4 @@
-# SpringBoot的学习（193 篇）
+# SpringBoot的学习（203 篇）
 
 > 本目录为语雀知识库「SpringBoot的学习」的自动同步内容。
 
@@ -114,6 +114,16 @@
 - [八、可观测日志](<SpringBoot的学习/stringboot/相关常识/Task12笔记/八、可观测日志.md>)
 - [六、安全边界：为什么不给写操作](<SpringBoot的学习/stringboot/相关常识/Task12笔记/六、安全边界：为什么不给写操作.md>)
 - [四、注册工具：三个注解](<SpringBoot的学习/stringboot/相关常识/Task12笔记/四、注册工具：三个注解.md>)
+- [Task13笔记](<SpringBoot的学习/stringboot/相关常识/Task13笔记.md>)
+- [Task13 自测题 · 登录接口](<SpringBoot的学习/stringboot/相关常识/Task13笔记/Task13 自测题 · 登录接口.md>)
+- [Task13 自测题 · 知识点总结](<SpringBoot的学习/stringboot/相关常识/Task13笔记/Task13 自测题 · 知识点总结.md>)
+- [一、为什么不能 WHERE password = ?](<SpringBoot的学习/stringboot/相关常识/Task13笔记/一、为什么不能 WHERE password = _.md>)
+- [七、日志安全](<SpringBoot的学习/stringboot/相关常识/Task13笔记/七、日志安全.md>)
+- [三、两种失败必须说同一句话](<SpringBoot的学习/stringboot/相关常识/Task13笔记/三、两种失败必须说同一句话.md>)
+- [二、matches() 内部做了什么](<SpringBoot的学习/stringboot/相关常识/Task13笔记/二、matches() 内部做了什么.md>)
+- [五、唯一索引：主键管不了用户名重复](<SpringBoot的学习/stringboot/相关常识/Task13笔记/五、唯一索引：主键管不了用户名重复.md>)
+- [六、接口设计](<SpringBoot的学习/stringboot/相关常识/Task13笔记/六、接口设计.md>)
+- [四、@TableField(select = false) 的两面性](<SpringBoot的学习/stringboot/相关常识/Task13笔记/四、@TableField(select = false) 的两面性.md>)
 - [Task6笔记](<SpringBoot的学习/stringboot/相关常识/Task6笔记.md>)
 - [@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？](<SpringBoot的学习/stringboot/相关常识/Task6笔记/@JsonProperty(WRITE_ONLY) 和 @JsonIgnore 用在密码字段上有什么区别？后者会引发什么故障？.md>)
 - [Supplier 是什么](<SpringBoot的学习/stringboot/相关常识/Task6笔记/Supplier 是什么.md>)
